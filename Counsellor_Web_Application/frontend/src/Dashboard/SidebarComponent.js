@@ -1,4 +1,3 @@
-import { BrowserRouter } from "react-router-dom";
 import { Sidebar, Menu, MenuItem, useProSidebar } from 'react-pro-sidebar';
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -7,16 +6,23 @@ import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons'
 import { faCheck } from '@fortawesome/free-solid-svg-icons'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
 import { faRightFromBracket } from '@fortawesome/free-solid-svg-icons'
+import { useLogout } from '../hooks/useLogout';
 import {useState} from 'react'
 
 
-const Sidebar_Component = () => {
+const SidebarComponent = () => {
     const { collapseSidebar } = useProSidebar();
     const [check, setCheck] = useState(true)
+    const {logout} = useLogout()
+    
     const handleClick = ()=>{
     collapseSidebar()
     setCheck(prevCheck => !prevCheck)
-  }
+    }
+
+    const handlelogout = () =>{
+        logout()
+    }
     return ( 
         <div style={{display: 'flex', height: '100%', marginTop: '-70px'}}>
              <Sidebar>
@@ -31,11 +37,11 @@ const Sidebar_Component = () => {
                     <br /><br /><br /><br />
                     <Link to={'/counsil'}><MenuItem><FontAwesomeIcon className='icon' icon={faCheck} />Counselling</MenuItem></Link>
                     <br /><br /><br /><br /><br /><br /><br />
-                    <Link to={'/login'}><MenuItem><FontAwesomeIcon className='icon' icon={faRightFromBracket} />Logout</MenuItem></Link>
+                    <Link to={'/login'} onClick={handlelogout}><MenuItem><FontAwesomeIcon className='icon' icon={faRightFromBracket} />Logout</MenuItem></Link>
                 </Menu>
             </Sidebar>
         </div>
      );
 }
  
-export default Sidebar_Component;
+export default SidebarComponent;

@@ -1,15 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './Dashboard/App';
+import App from './App';
 import {ProSidebarProvider} from 'react-pro-sidebar'
+import { AuthContextProvider } from './context/AuthContext';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ProSidebarProvider>
-      <App />
-    </ProSidebarProvider>
+    <AuthContextProvider>
+      <ProSidebarProvider>
+          <App />
+      </ProSidebarProvider>
+    </AuthContextProvider>
   </React.StrictMode>
 );
 
