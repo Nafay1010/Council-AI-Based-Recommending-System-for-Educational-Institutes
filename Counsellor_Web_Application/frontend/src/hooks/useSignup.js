@@ -11,14 +11,14 @@ export const useSignup = () => {
     setIsLoading(true)
     setError(null)
     // console.log('At useSignup: ', email, password);
-    console.log('At useSignup', formval);
+    // console.log('At useSignup', formval);
     const response = await fetch('/signup', {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({ formval })
     })
     const json = await response.json()
-    console.log("json: ", json);
+    // console.log("json: ", json);
     if (!response.ok) {
       setIsLoading(false)
       setSuccess(null)

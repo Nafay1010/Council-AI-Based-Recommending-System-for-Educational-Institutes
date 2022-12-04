@@ -1,8 +1,116 @@
+import {useState} from 'react'
+import { useEffect } from "react"
+import { useUserContext } from "../hooks/useUserContext"
+import {useAuthContext} from '../hooks/useAuthContext'
+
 const Counsil = () => {
+  const { users, dispatch } = useUserContext()
+  const {user} = useAuthContext()
+  const {email} = JSON.parse(localStorage.getItem('User')) 
+  const [success, setSuccess] = useState('')
+  const [error, setError] = useState('')
+  useEffect(() => {
+    const fetchUsers = async () => {
+      const response = await fetch('/home' + email, {
+        headers: {
+          'Authorization': `Bearer ${user.token}`
+        }
+      })
+      const json = await response.json()
+      
+      if (response.ok) {
+        dispatch({type: 'SET_USERS', payload: json})
+      }
+    }
+
+    if(user){
+      fetchUsers()
+    }
+    fetchUsers()
+  }, [dispatch, user, email])
+
+    const [budget, setBudget] = useState('')
+    const [interest, setInterest] = useState('')
+    const [study_group, setStudy_group] = useState('')
+    const [fileData, setfileData] = useState()
+       
+
+    const fileChangeHandler = (e) =>{
+        setfileData(e.target.files[0]);
+    }
+
+    const handleSubmit = (e) =>{
+        e.preventDefault();
+        const CNIC = String(users.map(item=>(item.CNIC)))
+        const data = new FormData()
+        data.append('image', fileData)
+        data.append('data', JSON.stringify({budget, interest, study_group, CNIC}))
+        fetch('http://localhost:4000/single', {
+            method: "POST",
+            body: data
+        })
+        .then((result) =>{
+          setError('Upload was Unsuccessfull!')
+          setSuccess(null)
+        }) 
+        .catch((err) =>{
+          setSuccess('Uploaded Successfully!')
+          setError(null)
+            // console.log(err.messsage);
+        })
+    }
     return ( 
         <div className="counsil-content">
-            <h1>Recommendation Tab</h1>
-            <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad possimus quas dicta amet natus eos eveniet tempora dolore? Debitis, consequatur? Tempore, quo animi. Voluptatem accusamus dolorum quas eos sapiente veritatis ex! Maiores, ut eveniet tempora consequatur fuga repellat tempore totam quis aut rerum dignissimos maxime corporis eum, architecto minus reprehenderit error dolorem. Aperiam quae tenetur omnis nulla ex illo ad iure, labore sed ab, fuga molestiae distinctio reiciendis! At dolorum possimus voluptatem, excepturi tempora pariatur enim praesentium animi id consequuntur eaque exercitationem non explicabo, natus, dicta sapiente. Dolor ipsa veritatis fugit dicta, consectetur blanditiis error esse aliquid repellat at ex tenetur accusamus cum. Sed quidem debitis architecto soluta vitae praesentium assumenda laboriosam culpa nam sint doloremque mollitia, error ea quae quisquam voluptatem iure suscipit cupiditate amet odit, et vero maxime? Facilis et deserunt placeat distinctio ea culpa illum tempore quis? Hic esse quo consequatur reiciendis deserunt? Itaque rem, vel corrupti dicta non nostrum dolore aspernatur, id nemo consequatur odio enim similique voluptates minus impedit. Minima quis nulla, vel laboriosam optio, reiciendis laudantium libero non numquam corrupti necessitatibus? Placeat atque dolor reiciendis officiis quidem facilis veniam fugit cumque cupiditate exercitationem totam amet dolore sit consectetur laudantium asperiores, dignissimos nihil consequatur enim minus. Culpa dolore quod laborum aliquam, dolor eius dolorem praesentium voluptatibus corporis cumque maiores repellendus dolores? Voluptates, id atque. Pariatur eius quibusdam, quae expedita quaerat sunt aut iure. Vel excepturi quaerat cupiditate ratione, eos, consequatur velit reprehenderit voluptates et totam possimus modi eligendi nesciunt cumque ab dicta enim fugit sit expedita vero. Dolorem dolore, sed nihil iure totam distinctio, labore quaerat perspiciatis nobis eveniet magnam mollitia fugiat in officiis vel veritatis inventore ex dolores culpa saepe quasi similique architecto? Sint, deserunt explicabo quas consequuntur excepturi quisquam quis sapiente vero in tempore saepe ipsa veniam vitae, optio tenetur reprehenderit dolor perspiciatis doloribus fugit distinctio facilis ipsam porro incidunt iste. Praesentium corporis saepe sed temporibus eveniet, doloribus nobis id! Cumque quasi dicta dolorum qui magnam veniam nihil consequuntur laboriosam quia. Dicta assumenda modi recusandae necessitatibus neque ipsa non commodi officia inventore omnis soluta possimus ducimus, atque quo odit, consectetur quis. Reiciendis, fuga ad earum numquam tempore sit provident impedit ab natus totam at facere laboriosam eos libero, explicabo illo quas tempora veniam inventore? Velit distinctio in eligendi suscipit exercitationem similique, amet incidunt, unde ratione necessitatibus commodi deserunt reprehenderit saepe alias, harum praesentium. Quasi aut minus excepturi veniam exercitationem itaque facilis accusantium, autem sint nostrum voluptatibus pariatur. Nisi repudiandae aliquid nulla doloremque, enim velit ea accusamus natus maiores veniam est voluptatibus doloribus earum modi minima repellat tempora odio magnam harum exercitationem assumenda fugiat dicta quae totam. Similique odit atque ratione fugit laboriosam, quod modi in expedita. Ipsam incidunt, dolor deleniti animi minima cumque molestias. Perspiciatis enim iure vero exercitationem, modi dolores unde! Debitis officiis commodi at perferendis possimus facilis nostrum, deserunt architecto, sit, exercitationem corrupti ut error atque adipisci fugiat eos. Iste ullam dolorum tempore harum fugit explicabo excepturi cupiditate. Labore eaque non voluptatum dolorum illum totam facilis magnam, consequatur corrupti rerum maxime?</h5>
+            <form onSubmit={handleSubmit} encType="multipart/form-data">
+              <fieldset className='counsil-field'>
+                <h1>Get Recommendation</h1>
+                <div className="field">  
+                <label>Budget</label>
+                <br /><br />
+                <input type="number" 
+                required
+                name='budget'
+                value={budget}
+                placeholder="Enter Max Amount of Budget..."
+                onChange={e=>setBudget(e.target.value)}
+                />
+                <br /><br />
+                <label>Interest</label>
+                <br /><br />
+                <input type="text" 
+                required
+                name='interest'
+                placeholder='Few Phrases describing your Interest...'
+                value={interest}
+                onChange={e=>setInterest(e.target.value)}
+                />
+                <br /><br />
+                <label>Study Group</label>
+                <br /><br />
+                <input type="text" 
+                required
+                name='study_group'
+                value={study_group}
+                placeholder="Computer Science, Engr etc..."
+                onChange={e=>setStudy_group(e.target.value)}
+                />
+                <br /><br />
+                <label htmlFor="file">Upload Transcript</label>
+                <br /><br />
+                <input type="file"
+                name='file'
+                onChange={fileChangeHandler}
+                className="file-input"
+                />
+                <br /><br />
+                <div className="btn">
+                  <button>Submit</button>
+                  {success ? <div className='success'>{success}</div> : error && <div className='error'>{error}</div>}
+                </div>
+                </div>
+              </fieldset>
+            </form>
+
         </div>
      );
 }

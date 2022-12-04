@@ -7,7 +7,11 @@ const Login = () => {
   const {login, error, isLoading} = useLogin()
   const handleSubmit = async (e) => {
     e.preventDefault()
-
+    const exist = localStorage.getItem('User')
+    if(exist)
+    {
+      localStorage.removeItem('User')
+    }
     await login(email, password)
   }
 
@@ -42,7 +46,6 @@ const Login = () => {
         </div>
       </form>
     </div>
-
   )
 }
 

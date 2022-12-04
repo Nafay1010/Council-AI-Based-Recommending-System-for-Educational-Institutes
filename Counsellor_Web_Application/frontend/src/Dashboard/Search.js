@@ -1,8 +1,43 @@
-const Search = () => {
+// import Rate from "./Rate";
+import Rate from "./Rate";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faLocationDot} from '@fortawesome/free-solid-svg-icons'
+import {faHotel} from '@fortawesome/free-solid-svg-icons'
+import {faSackDollar} from '@fortawesome/free-solid-svg-icons'
+
+const Search = ({university}) => {
     return ( 
         <div className="search-content">
-            <h1>Search/Exploration Tab</h1>
-            <h5>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea veritatis quia consequatur accusamus totam harum tempora, molestiae in ex vero laborum cum, iure ipsa. Vero, possimus. Quidem ea, architecto excepturi ducimus expedita molestiae dolores sapiente, impedit optio deserunt veniam, dolorem pariatur est iste libero animi corporis fugit magnam! Fugit eum repellat et culpa unde voluptatum necessitatibus perspiciatis amet debitis eius modi, optio praesentium quaerat cum distinctio deserunt fugiat quibusdam nesciunt placeat ipsum enim corporis rerum non? Nemo tempore corporis libero sit, ut perspiciatis optio nesciunt. Ut libero facere maiores dolorem perspiciatis voluptatibus alias dolores nostrum eius. Delectus id error rem obcaecati. Perferendis illum recusandae obcaecati fugiat iusto sequi esse facilis sunt error alias cupiditate, dolores quo quos iste optio veritatis quaerat adipisci, accusantium itaque reiciendis. Omnis consequuntur harum sint ea quisquam debitis quis quos, tempore laborum eius quae, nam eveniet iste possimus doloremque quaerat earum ullam quasi ducimus enim deleniti ipsam fuga molestiae illum. Nobis quam tempora rem id vero officia aspernatur, eligendi eius. Quas doloremque quidem autem quisquam voluptatum ipsam delectus, laboriosam debitis libero numquam unde eaque, voluptatibus veritatis, ullam eos modi quasi cum nulla fugiat vel repellendus sed. Necessitatibus aperiam earum nostrum veritatis quos. Eos atque ad asperiores explicabo libero vitae assumenda vero dolore expedita distinctio? Numquam, omnis, inventore iure, qui alias ex quas suscipit corrupti porro sapiente eius accusamus voluptate consequatur beatae facere dicta illo laborum nostrum necessitatibus assumenda. Distinctio natus aperiam fugit, animi sunt tempora unde nulla esse neque quas vel quibusdam reprehenderit voluptas magnam. Delectus at laboriosam iure nulla doloremque neque similique officia aliquam esse iusto commodi provident ut totam, soluta, placeat in quae dicta nihil, dolor excepturi laudantium numquam. Temporibus deleniti odio soluta, nihil, quos rerum sint reiciendis numquam placeat magnam explicabo excepturi alias? Reiciendis est debitis quas, cupiditate optio voluptas libero consequuntur. Incidunt eveniet, deleniti molestiae architecto facilis dolor voluptates cum, laborum molestias ullam quos temporibus aspernatur vero maiores tempore facere sed reprehenderit voluptatibus rem dolorum cupiditate iure praesentium nulla. Voluptates dolores accusamus tempore, ut tempora beatae porro obcaecati, itaque molestiae accusantium eius quibusdam suscipit ipsam dolorum iste sapiente delectus nam consequuntur. Aperiam optio quis minima aliquam sed expedita nihil voluptatem molestiae voluptatibus. Nisi corrupti quisquam, dolores iure consectetur, nulla eius inventore, quis tempore architecto expedita sapiente rem. Porro optio ex recusandae dolores impedit! Officiis incidunt deleniti adipisci. Optio, voluptates earum? Nam, sint fugiat necessitatibus adipisci earum fuga architecto harum est rerum officia iusto, amet quo tempore aspernatur maiores veniam dolorem ut esse soluta. Ex iusto voluptatibus eaque in, quaerat nam qui aut amet, itaque, temporibus culpa nemo! In nemo eligendi omnis accusamus ab doloremque laboriosam tenetur accusantium minus nobis. Ad qui dolores vero ipsum animi, praesentium cumque natus impedit cum explicabo laudantium repudiandae culpa possimus amet laborum eos laboriosam molestiae ipsam dicta officia mollitia! Tempora expedita voluptatem sit fugiat voluptates cum, pariatur illum magnam saepe consectetur nesciunt minima ea eos eaque ex cumque numquam tempore reiciendis ab a hic id laborum rem? Sit cupiditate inventore saepe eos? Unde exercitationem ducimus maxime molestias?</h5>
+            <a href={university.Main_link} className="container-link">
+            <div className="container">
+                <div className="upper">
+                <h2 className="title">{university.university_name}</h2>
+                <Rate className="stars" count={university.rating} key={university.id}/>
+                <h5 className="private-public">{university.public_private}</h5>
+                </div>
+                <div className="loc">
+                    <FontAwesomeIcon icon={faLocationDot} color={'#969696'}></FontAwesomeIcon>
+                    <h5>{university.campuses}</h5>
+                </div>
+                <div className="loan-hostel">
+                    <div className="hostel">
+                        <FontAwesomeIcon icon={faHotel}></FontAwesomeIcon>
+                        <p>Hostel Accommodation:</p>
+                        {university.hostels_acc === "Yes" ? <h4 className="btn-yes">{university.hostels_acc}</h4> : <h4 className="btn-no">{university.loan_scholarship}</h4>}
+                    </div>
+                    <div className="loan">
+                        <FontAwesomeIcon icon={faSackDollar}></FontAwesomeIcon>
+                        <p>Loan/Scholarship:</p>
+                        {university.loan_scholarship === "Yes" ? <h4 className="btn-yes">{university.loan_scholarship}</h4> : <h4 className="btn-no">{university.loan_scholarship}</h4>}
+                    </div>
+                </div>
+                <div className="programs-fee">
+                    <a href={university.Programs_link}><button className="programs">Programs Info</button></a>
+                    <a href={university.Fee_link}><button>Fee Structure</button></a>
+                </div>
+            </div>
+            </a>
+
         </div>
      );
 }

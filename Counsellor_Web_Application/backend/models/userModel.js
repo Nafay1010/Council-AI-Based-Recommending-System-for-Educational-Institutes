@@ -5,11 +5,11 @@ const validator = require('validator')
 const Schema = mongoose.Schema
 
 const userSchema = new Schema({
-
   //login info
   email: {
     type: String,
     required: true,
+    unique: true
   },
   password: {
     type: String,
@@ -96,6 +96,7 @@ userSchema.statics.signup = async function(formval){
     throw Error('CNIC entered is invalid cause it already exist')
   }
 
+  
   //generating salt
   const salt = await bcrypt.genSalt(10)
   //generating hash

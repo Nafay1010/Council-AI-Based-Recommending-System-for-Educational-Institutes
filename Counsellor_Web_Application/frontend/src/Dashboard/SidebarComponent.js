@@ -24,20 +24,20 @@ const SidebarComponent = () => {
         logout()
     }
     return ( 
-        <div style={{display: 'flex', height: '100%', marginTop: '-70px'}}>
-             <Sidebar>
+        <div>
+             <Sidebar style={{backgroundColor: "whitesmoke"}} width={'200px'}>
                 <div className="navbar-logo">
                 {check ? <h1 onClick={handleClick}>Counsellor</h1> : <button className='logobtn' onClick={handleClick}><FontAwesomeIcon icon={faBars} /></button>}
                 </div>
                 <br /><br /><br /><br /><br /><br />
                 <Menu className='menu-items'>  
-                    <Link to={'/'}><MenuItem><FontAwesomeIcon className='icon' icon={faHouse}/>Home</MenuItem></Link>
+                    <Link to={'/home'}><MenuItem><FontAwesomeIcon className='icon' icon={faHouse}/>Home</MenuItem></Link>
                     <br /><br /><br /><br />
-                    <Link to={'/search'}><MenuItem><FontAwesomeIcon className='icon' icon={faMagnifyingGlass} />Explore</MenuItem></Link>
+                    <Link to={'/Search'}><MenuItem><FontAwesomeIcon className='icon' icon={faMagnifyingGlass} />Explore</MenuItem></Link>
                     <br /><br /><br /><br />
                     <Link to={'/counsil'}><MenuItem><FontAwesomeIcon className='icon' icon={faCheck} />Counselling</MenuItem></Link>
                     <br /><br /><br /><br /><br /><br /><br />
-                    <Link to={'/login'} onClick={handlelogout}><MenuItem><FontAwesomeIcon className='icon' icon={faRightFromBracket} />Logout</MenuItem></Link>
+                    <Link to={'/login'}><MenuItem onClick={handlelogout}><FontAwesomeIcon className='icon' icon={faRightFromBracket} />Logout</MenuItem></Link>
                 </Menu>
             </Sidebar>
         </div>

@@ -29,6 +29,8 @@ const Signup = () => {
 
   const handleSubmit = async (e) =>{
     e.preventDefault()
+
+    console.log("At signup: ", formval);
     await signup(formval)
   }
   
