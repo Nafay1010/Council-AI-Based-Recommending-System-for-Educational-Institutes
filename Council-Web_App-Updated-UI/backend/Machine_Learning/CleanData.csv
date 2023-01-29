@@ -1,0 +1,251 @@
+Gender,Race/Ethnicity,Home_City,Preferred_Langauge,Hobby_Interest,Budget,Fathers_Occupation,Mothers_Occupation,Study_Group,Degree_Program,Matric Grade,Inter Grade,Campus,University
+female,group B,Karachi,Punjabi,Reading,High,Doctor,House Wife,CS,BSCS,A+,A+,Karachi,FAST NUCES
+female,group C,Karachi,Urdu,Reading,Medium,Engrr,House Wife,Pre-Engrr,BSEE,B,B,Islamabad,FAST NUCES
+female,group B,Lahore,Urdu,Sports,Medium,Engrr,House Wife,Pre-Engrr,BSCS,B,A,Lahore,FAST NUCES
+male,group A,Karachi,Urdu,Sports,High,Doctor,House Wife,Pre-Engrr,BSCS,A+,A+,Islamabad,FAST NUCES
+male,group C,Peshawar,Urdu,Gaming,High,Doctor,House Wife,CS,BSEE,A+,A+,Peshawar,FAST NUCES
+female,group B,Karachi,Urdu,Reading,Low,Teacher,House Wife,CS,BSEE,B,B,Islamabad,FAST NUCES
+female,group B,Karachi,English,Gaming,High,Doctor,Doctor,Pre-Engrr,BSSE,B,B-,Islamabad,FAST NUCES
+male,group B,Peshawar,Pashto,Sports,High,Doctor,Doctor,Pre-Engrr,BSCS,B-,A,Peshawar,FAST NUCES
+male,group D,Peshawar,Pashto,Gaming,High,Army,Doctor,Pre-Engrr,BSEE,A+,B-,Peshawar,FAST NUCES
+female,group B,Karachi,English,Sports,High,Army,Doctor,CS,BSCS,A+,A+,Karachi,FAST NUCES
+male,group C,Peshawar,Pashto,Gaming,Medium,Engrr,House Wife,CS,BSCS,A,B+,Islamabad,FAST NUCES
+female,group C,Lahore,English,Sports,High,Army,House Wife,Pre-Engrr,BSEE,A,B-,Islamabad,FAST NUCES
+male,group B,Kohat,Hinko,Reading,Medium,Engrr,House Wife,Pre-Engrr,BSCS,B-,A,Peshawar,FAST NUCES
+male,group A,Kohat,Urdu,Writing,Low,Teacher,House Wife,CS,BSCS,A+,A,Peshawar,FAST NUCES
+male,group D,Islamabad,Urdu,Gaming,High,Retired,Doctor,CS,BSCS,A,A-,Islamabad,FAST NUCES
+male,group C,Lahore,Urdu,Gaming,Medium,Engrr,House Wife,CS,BSCS,A+,A+,Islamabad,COMSATS
+male,group D,Lahore,Urdu,Gaming,Medium,Engrr,House Wife,Pre-Med,BSSE,A,A,Islamabad,COMSATS
+female,group B,Karachi,Urdu,Writing,Low,Teacher,House Wife,Pre-Engrr,BSCS,A,A,Lahore,COMSATS
+male,group A,Karachi,Urdu,Sports,Medium,Engrr,House Wife,Commerce,BSSE,A,B-,Lahore,COMSATS
+female,group A,Lahore,English,Writing,Medium,Doctor,House Wife,CS,BSSE,B,A,Lahore,COMSATS
+female,group C,Lahore,Punjabi,Gaming,Medium,Teacher,Teacher,CS,BSCS,A,B-,Lahore,COMSATS
+male,group C,Karachi,English,Sports,Medium,Teacher,Teacher,Pre-Engrr,BSCS,A+,A+,Islamabad,COMSATS
+female,group B,Peshawar,Pashto,Writing,Medium,Doctor,House Wife,Pre-Engrr,BSSE,A+,A,Lahore,COMSATS
+male,group C,Peshawar,Pashto,Sports,Medium,Doctor,House Wife,Pre-Engrr,BSCS,A+,B,Islamabad,COMSATS
+female,group C,Karachi,Urdu,Sports,Medium,Teacher,Teacher,Pre-Engrr,BSCS,A,A,Lahore,COMSATS
+male,group D,Karachi,Urdu,Gaming,Medium,Doctor,Teacher,CS,BSCS,B+,A,Islamabad,NUST
+female,group B,Karachi,Urdu,Sports,High,Doctor,Doctor,Pre-Med,BSEE,A,A,Islamabad,NUST
+male,group D,Lahore,Urdu,Reading,High,Doctor,House Wife,Pre-Engrr,BSEE,B-,B+,Islamabad,NUST
+female,group C,Lahore,English,Sports,High,Doctor,Doctor,Commerce,BSAF,B,A,Islamabad,NUST
+male,group D,Peshawar,Pashto,Writing,High,Engrr,Doctor,Arts,BBA,A+,A+,Islamabad,NUST
+male,group A,Lahore,Punjabi,Gaming,High,Doctor,Doctor,Arts,BBAF,A+,A+,Islamabad,NUST
+male,group B,Peshawar,Pashto,Writing,High,Engrr,House Wife,Arts,BBAF,A+,A+,Islamabad,NUST
+female,group C,Karachi,English,Sports,Medium,Engrr,House Wife,CS,BSCS,A+,A+,Islamabad,NUST
+male,group C,Peshawar,Pashto,Gaming,Medium,Engrr,House Wife,Pre-Engrr,BSEE,A+,A+,Islamabad,NUST
+female,group D,Karachi,English,Reading,High,Doctor,House Wife,Pre-Engrr,BSCS,A+,B+,Islamabad,NUST
+female,group D,Lahore,Urdu,Gaming,High,Army,Doctor,Commerce,BSEE,A+,B+,Lahore,LUMS
+female,group B,Lahore,Urdu,Writing,High,Doctor,Teacher,Arts,BBA,A,A,Lahore,LUMS
+female,group E,Karachi,English,Gaming,High,Army,Teacher,CS,BSCS,B+,A-,Lahore,LUMS
+male,group D,Peshawar,Urdu,Sports,High,Engrr,Teacher,CS,BSCS,B+,A-,Lahore,LUMS
+male,group E,Lahore,Urdu,Sports,High,Engrr,Teacher,Pre-Engrr,BSCS,A,A,Lahore,LUMS
+male,group E,Islamabad,Urdu,Sports,High,Teacher,Teacher,Pre-Engrr,BSCS,B,A,Lahore,LUMS
+female,group D,Kohat,Urdu,Sports,High,Army,Doctor,Arts,BBA,A+,B-,Lahore,LUMS
+female,group D,Lahore,Urdu,Sports,High,Army,Doctor,Arts,BBA,A+,A+,Lahore,LUMS
+female,group D,Peshawar,Pashto,Writing,High,Doctor,Doctor,CS,BSEE,A+,A+,Lahore,LUMS
+male,group B,Peshawar,Urdu,Gaming,Medium,Army,Teacher,CS,BSEE,B+,A-,Lahore,LUMS
+male,group C,Kohat,Hinko,Gaming,Low,Teacher,Teacher,CS,BSCS,A+,B+,Peshawar,KMC
+female,group C,Kohat,Hinko,Reading,Medium,Doctor,House Wife,Pre-Med,Medical,A,A,Peshawar,KMC
+female,group B,Peshawar,Pashto,Gaming,Low,Teacher,House Wife,Pre-Med,Medical,B,B-,Peshawar,KMC
+male,group B,Karachi,English,Writing,Medium,Doctor,Teacher,Pre-Med,Medical,A+,A+,Peshawar,KMC
+female,group E,Lahore,Punjabi,Gaming,Medium,Army,Teacher,Pre-Med,Medical,A+,A+,Peshawar,KMC
+male,group B,Lahore,English,Writing,High,Army,Teacher,Pre-Med,Medical,A+,A+,Peshawar,KMC
+female,group A,Karachi,Punjabi,Gaming,Medium,Army,Doctor,Pre-Med,Medical,A+,A+,Peshawar,KMC
+female,group C,Kohat,Hinko,Gaming,Medium,Engrr,House Wife,Pre-Med,Medical,B,A-,Peshawar,KMC
+female,group D,Lahore,Punjabi,Reading,Medium,Engrr,House Wife,Pre-Med,Medical,B,A+,Peshawar,KMC
+male,group C,Karachi,Punjabi,Gaming,High,Doctor,Teacher,Pre-Med,Medical,A+,A-,Peshawar,KMC
+male,group B,Karachi,Urdu,Gaming,High,Doctor,Teacher,Pre-Engrr,BSME,A+,B-,Karachi,COMSATS
+female,group B,Karachi,Urdu,Gaming,High,Doctor,Teacher,Pre-Engrr,BSEE,B-,B-,Islamabad,NUST
+male,group B,Karachi,Urdu,Gaming,High,Doctor,House Wife,Pre-Engrr,BSCE,B+,B-,Islamabad,NUST
+male,group B,Karachi,English,Nothing,Low,Retired,Teacher,Pre-Engrr,BSCE,B-,C+,Karachi,COMSATS
+male,group B,Karachi,Urdu,Nothing,Medium,Engrr,House Wife,CS,BSCS,B+,C+,Peshawar,FAST NUCES
+male,group C,Peshawar,Pashto,Nothing,Medium,Engrr,House Wife,Pre-Med,Medical,A+,B+,Peshawar,KMC
+female,group C,Peshawar,Pashto,Nothing,Medium,Engrr,House Wife,Pre-Engrr,BSCS,B-,C-,Islamabad,COMSATS
+female,group C,Peshawar,Urdu,Sports,Low,Teacher,House Wife,Commerce,BSME,C+,A+,Islamabad,COMSATS
+male,group C,Peshawar,Urdu,Sports,Medium,Doctor,House Wife,Arts,BBAF,B+,A+,Islamabad,COMSATS
+male,group D,Sialkot,Punjabi,Sports,Low,Retired,House Wife,Arts,BBAF,B+,A-,Peshawar,KMC
+male,group D,Sialkot,Punjabi,Sports,High,Doctor,Doctor,Arts,BBA,B,A,Peshawar,FAST NUCES
+female,group D,Sialkot,Urdu,Sports,High,Doctor,Doctor,CS,BSCS,A,B,Islamabad,COMSATS
+male,group D,Sialkot,Urdu,Writing,High,Doctor,Teacher,Pre-Engrr,BSCS,C-,C+,Islamabad,COMSATS
+female,group D,Kohat,Urdu,Reading,Medium,Engrr,House Wife,Pre-Engrr,BSCS,C+,B-,Lahore,LUMS
+male,group A,Kohat,Hinko,Reading,Medium,Teacher,Teacher,Commerce,BSCE,B+,B+,Lahore,LUMS
+female,group A,Bakhar,Urdu,Reading,Medium,Retired,Doctor,Arts,BBA,A+,A,Lahore,LUMS
+male,group A,Bakhar,Urdu,Writing,Medium,Retired,Doctor,CS,BSCS,B+,A-,Islamabad,FAST NUCES
+female,group A,Bakhar,Urdu,Gaming,Medium,Doctor,House Wife,CS,BSCS,A-,B-,Islamabad,FAST NUCES
+male,group A,Lahore,Punjabi,Gaming,Medium,Doctor,House Wife,Pre-Med,Medical,A+,B,Peshawar,KMC
+female,group A,Islamabad,Punjabi,Nothing,Medium,Engrr,Doctor,CS,BSCS,B-,A,Peshawar,FAST NUCES
+male,group C,Peshawar,Pashto,Gaming,High,Engrr,Doctor,Pre-Med,Medical,C+,B+,Peshawar,KMC
+female,group C,Peshawar,Pashto,Nothing,Medium,Engrr,House Wife,Pre-Engrr,BSCS,A+,B,Islamabad,COMSATS
+female,group C,Peshawar,Urdu,Sports,High,Teacher,Doctor,Commerce,BSME,C,B+,Islamabad,COMSATS
+female,group D,Lahore,Urdu,Reading,High,Engrr,Doctor,Pre-Engrr,BSEE,A,A,Lahore,LUMS
+male,group C,Lahore,Punjabi,Reading,High,Doctor,Teacher,Commerce,BSME,A,B+,Lahore,LUMS
+female,group B,Islamabad,Urdu,Reading,High,Doctor,Doctor,Arts,BBAF,A+,A,Lahore,LUMS
+female,group C,Kohat,Hinko,Gaming,Medium,Engrr,House Wife,Pre-Med,Medical,A,B-,Peshawar,KMC
+male,group C,Islamabad,Punjabi,Nothing,Medium,Engrr,House Wife,Pre-Med,Medical,A,A+,Peshawar,KMC
+male,group C,Islamabad,Urdu,Nothing,High,Doctor,Teacher,Pre-Med,Medical,A+,A-,Peshawar,KMC
+female,group D,Lahore,Urdu,Reading,High,Doctor,Doctor,Pre-Engrr,BSME,A,A+,Lahore,LUMS
+male,group C,Lahore,Punjabi,Nothing,High,Doctor,Teacher,Commerce,BSEE,B+,A+,Lahore,LUMS
+female,group B,Islamabad,Urdu,Reading,High,Doctor,Doctor,CS,BSCS,A+,A,Lahore,LUMS
+female,group C,Kohat,Hinko,Nothing,Low,Teacher,House Wife,Pre-Med,Medical,A,B-,Peshawar,KMC
+male,group C,Islamabad,Punjabi,Nothing,Low,Teacher,House Wife,Pre-Med,Medical,B,A-,Peshawar,KMC
+male,group C,Islamabad,Urdu,Nothing,High,Doctor,Teacher,Pre-Med,Medical,B+,A-,Peshawar,KMC
+male,group D,Karachi,Urdu,Gaming,Medium,Doctor,House Wife,CS,BSCS,A+,A,Islamabad,NUST
+female,group B,Karachi,Urdu,Sports,High,Doctor,Doctor,Pre-Engrr,BSEE,A+,A,Islamabad,NUST
+male,group D,Lahore,Urdu,Reading,Medium,Doctor,House Wife,CS,BSCS,B-,A+,Islamabad,NUST
+female,group C,Lahore,English,Reading,Medium,Doctor,Teacher,Commerce,BSAF,B,A+,Islamabad,NUST
+male,group D,Peshawar,Pashto,Nothing,Medium,Engrr,Teacher,Arts,BBA,A+,A+,Islamabad,NUST
+male,group A,Lahore,Punjabi,Nothing,High,Doctor,Doctor,Arts,BBA,A,A,Islamabad,NUST
+male,group B,Peshawar,Pashto,Writing,High,Engrr,House Wife,Arts,BBAF,A,A,Islamabad,NUST
+female,group C,Karachi,English,Nothing,Medium,Engrr,Teacher,CS,BSCS,A-,B+,Islamabad,NUST
+male,group C,Peshawar,Pashto,Gaming,Medium,Engrr,House Wife,Pre-Engrr,BSCS,A-,A+,Islamabad,NUST
+female,group D,Karachi,English,Reading,Medium,Doctor,House Wife,Pre-Engrr,BSME,A,B+,Islamabad,NUST
+female,group C,Islamabad,Urdu,Nothing,Low,Teacher,Teacher,CS,BSCS,A+,B,Islamabad,COMSATS
+male,group C,Islamabad,Urdu,Reading,High,Teacher,Doctor,Pre-Engrr,BSSE,A-,B+,Islamabad,NUST
+female,group C,Islamabad,Urdu,Nothing,Medium,Retired,Doctor,Pre-Med,Medical,A,A,Peshawar,KMC
+female,group D,Kohat,Hinko,Nothing,Medium,Doctor,Teacher,Arts,BBAF,B,B,Islamabad,COMSATS
+female,group B,Kohat,Urdu,Nothing,Medium,Teacher,House Wife,Commerce,BBA,A,B,Islamabad,NUST
+male,group D,Karachi,Urdu,Gaming,High,Army,Doctor,CS,BSCS,A+,B+,Islamabad,COMSATS
+female,group C,Karachi,Urdu,Sports,High,Army,House Wife,Pre-Engrr,BSME,B+,A,Lahore,LUMS
+female,group D,Gujrat,Urdu,Reading,High,Army,Doctor,Pre-Med,Medical,B+,A-,Lahore,LUMS
+male,group A,Gujrat,Urdu,Reading,High,Army,Doctor,Arts,BBA,B+,A,Lahore,LUMS
+male,group B,Peshawar,Urdu,Nothing,Medium,Engrr,House Wife,CS,BSCS,A+,A-,Islamabad,FAST NUCES
+female,group C,Peshawar,Pashto,Nothing,Medium,Engrr,Doctor,Pre-Engrr,BSCS,A+,B+,Islamabad,NUST
+male,group C,Peshawar,Pashto,Writing,Medium,Doctor,House Wife,Pre-Med,Medical,A+,B+,Peshawar,KMC
+female,group D,Bakhar,Urdu,Nothing,Medium,Doctor,House Wife,Arts,BBAF,C-,B+,Lahore,LUMS
+female,group C,Bakhar,Urdu,Gaming,Medium,Doctor,Teacher,Commerce,BBAF,B+,B+,Lahore,LUMS
+male,group C,Kashmir,Urdu,Reading,Medium,Doctor,House Wife,CS,BBA,B+,B+,Islamabad,NUST
+male,group C,Kashmir,Urdu,Nothing,High,Retired,Doctor,Pre-Engrr,BBA,C+,B+,Peshawar,FAST NUCES
+male,group D,Bakhar,Urdu,Reading,Medium,Retired,Teacher,CS,BBAF,A+,A,Islamabad,NUST
+female,group B,Bakhar,English,Nothing,Medium,Teacher,Teacher,Pre-Engrr,BSCE,A,A,Islamabad,NUST
+male,group D,Bakhar,English,Nothing,Medium,Teacher,Teacher,Pre-Med,Medical,A+,A+,Peshawar,KMC
+female,group C,Islamabad,Urdu,Nothing,Medium,Engrr,Teacher,Arts,BBA,A+,A-,Islamabad,COMSATS
+male,group D,Islamabad,Urdu,Gaming,Medium,Doctor,House Wife,Commerce,BBA,A+,B+,Islamabad,NUST
+male,group A,Islamabad,Punjabi,Sports,High,Engrr,Doctor,CS,BBAF,A-,B+,Islamabad,COMSATS
+male,group B,Islamabad,Punjabi,Reading,High,Teacher,Doctor,Pre-Engrr,BSME,A+,B+,Islamabad,COMSATS
+female,group C,Islamabad,Urdu,Reading,High,Teacher,Doctor,Pre-Med,Medical,A+,B,Peshawar,KMC
+male,group C,Lahore,Urdu,Nothing,Medium,Teacher,House Wife,Arts,BBA,A,A,Lahore,LUMS
+female,group D,Kohat,Urdu,Nothing,Medium,Teacher,House Wife,CS,BSCS,A,A,Islamabad,FAST NUCES
+female,group C,Kohat,Pashto,Writing,Medium,Doctor,House Wife,Pre-Med,Medical,A+,B+,Peshawar,KMC
+female,group E,Kashmir,Urdu,Nothing,Medium,Doctor,House Wife,Arts,BBAF,C-,B+,Lahore,LUMS
+female,group C,Lahore,Urdu,Gaming,Medium,Doctor,Teacher,Commerce,BBAF,B+,B+,Lahore,LUMS
+female,group D,Lahore,Urdu,Reading,Medium,Doctor,House Wife,CS,BBA,B+,B+,Islamabad,NUST
+male,group C,Kashmir,Urdu,Nothing,High,Retired,Doctor,Pre-Engrr,BBA,C+,B+,Peshawar,FAST NUCES
+male,group E,Lahore,Urdu,Reading,Medium,Retired,Teacher,CS,BBAF,A+,A,Islamabad,NUST
+female,group A,Lahore,English,Nothing,Medium,Teacher,Teacher,Pre-Engrr,BSCE,A,A,Islamabad,NUST
+male,group D,Karachi,English,Nothing,Medium,Teacher,Teacher,Pre-Med,Medical,A+,A+,Peshawar,KMC
+female,group C,Gujrat,Urdu,Nothing,Medium,Engrr,Teacher,Arts,BBA,A+,A-,Islamabad,COMSATS
+male,group C,Sialkot,Urdu,Gaming,Medium,Doctor,House Wife,Commerce,BBA,A+,B+,Islamabad,NUST
+male,group A,Lahore,Punjabi,Sports,High,Engrr,Doctor,CS,BBAF,A-,B+,Islamabad,COMSATS
+male,group D,Lahore,Punjabi,Reading,High,Teacher,Doctor,Pre-Engrr,BSME,A+,B+,Lahore,LUMS
+female,group A,Kohat,Urdu,Reading,High,Teacher,Doctor,Pre-Med,Medical,A+,B,Peshawar,KMC
+male,group A,Peshawar,Urdu,Nothing,Medium,Teacher,House Wife,Arts,BBA,A,A,Islamabad,COMSATS
+female,group A,Peshawar,Urdu,Nothing,Medium,Teacher,House Wife,CS,BSCS,A,A,Islamabad,FAST NUCES
+male,group C,Kashmir,Urdu,Nothing,High,Retired,Doctor,Pre-Engrr,BBA,C+,B+,Peshawar,FAST NUCES
+male,group E,Lahore,Urdu,Reading,Medium,Retired,Teacher,CS,BBAF,A+,A,Islamabad,NUST
+female,group A,Lahore,English,Nothing,Medium,Teacher,Teacher,Pre-Engrr,BSCE,A,A,Islamabad,NUST
+male,group D,Karachi,English,Nothing,Medium,Teacher,Teacher,Pre-Med,Medical,A+,A+,Peshawar,KMC
+female,group C,Gujrat,Urdu,Nothing,Medium,Engrr,Teacher,Arts,BBA,A+,A-,Islamabad,COMSATS
+male,group C,Sialkot,Urdu,Gaming,Medium,Doctor,House Wife,Commerce,BBA,A+,B+,Islamabad,NUST
+male,group A,Lahore,Punjabi,Sports,High,Engrr,Doctor,CS,BBAF,A-,B+,Islamabad,COMSATS
+male,group D,Lahore,Punjabi,Reading,High,Teacher,Doctor,Pre-Engrr,BSME,A+,B+,Lahore,LUMS
+female,group A,Kohat,Urdu,Reading,High,Teacher,Doctor,Pre-Med,Medical,A+,B,Peshawar,KMC
+male,group A,Peshawar,Urdu,Nothing,Medium,Teacher,House Wife,Arts,BBA,A,A,Islamabad,COMSATS
+female,group A,Peshawar,Urdu,Nothing,Medium,Teacher,House Wife,CS,BSCS,A,A,Islamabad,FAST NUCES
+female,group B,Karachi,English,Sports,High,Army,Doctor,CS,BSCS,A+,A+,Karachi,FAST NUCES
+male,group C,Peshawar,Pashto,Gaming,Medium,Engrr,House Wife,CS,BSCS,A,B+,Islamabad,FAST NUCES
+female,group C,Lahore,English,Sports,High,Army,House Wife,Pre-Engrr,BSEE,A,B-,Islamabad,FAST NUCES
+male,group B,Kohat,Hinko,Reading,Medium,Engrr,House Wife,Pre-Engrr,BSCS,B-,A,Peshawar,FAST NUCES
+male,group A,Kohat,Urdu,Writing,Low,Teacher,House Wife,CS,BSCS,A+,A,Peshawar,FAST NUCES
+male,group D,Islamabad,Urdu,Gaming,High,Retired,Doctor,CS,BSCS,A,A-,Islamabad,FAST NUCES
+female,group C,Lahore,Punjabi,Gaming,Medium,Teacher,Teacher,CS,BSCS,A,B-,Lahore,COMSATS
+male,group C,Karachi,English,Sports,Medium,Teacher,Teacher,Pre-Engrr,BSCS,A+,A+,Islamabad,COMSATS
+female,group B,Peshawar,Pashto,Writing,Medium,Doctor,House Wife,Pre-Engrr,BSSE,A+,A,Lahore,COMSATS
+male,group C,Peshawar,Pashto,Sports,Medium,Doctor,House Wife,Pre-Engrr,BSCS,A+,B,Islamabad,COMSATS
+female,group C,Karachi,Urdu,Sports,Medium,Teacher,Teacher,Pre-Engrr,BSCS,A,A,Lahore,COMSATS
+male,group E,Islamabad,Urdu,Sports,High,Teacher,Teacher,Pre-Engrr,BSCS,B,A,Lahore,LUMS
+female,group D,Kohat,Urdu,Sports,High,Army,Doctor,Arts,BBA,A+,B-,Lahore,LUMS
+female,group D,Lahore,Urdu,Sports,High,Army,Doctor,Arts,BBA,A+,A+,Lahore,LUMS
+female,group D,Peshawar,Pashto,Writing,High,Doctor,Doctor,CS,BSEE,A+,A+,Lahore,LUMS
+male,group B,Peshawar,Urdu,Gaming,Medium,Army,Teacher,CS,BSEE,B+,A-,Lahore,LUMS
+male,group C,Kohat,Hinko,Gaming,Low,Teacher,Teacher,CS,BSCS,A+,B+,Peshawar,KMC
+female,group C,Kohat,Hinko,Reading,Medium,Doctor,House Wife,Pre-Med,Medical,A,A,Peshawar,KMC
+female,group B,Peshawar,Pashto,Gaming,Low,Teacher,House Wife,Pre-Med,Medical,B,B-,Peshawar,KMC
+male,group B,Karachi,English,Writing,Medium,Doctor,Teacher,Pre-Med,Medical,A+,A+,Peshawar,KMC
+female,group B,Karachi,Punjabi,Reading,High,Doctor,House Wife,CS,BSCS,A+,A+,Karachi,FAST NUCES
+female,group C,Karachi,Urdu,Reading,Medium,Engrr,House Wife,Pre-Engrr,BSEE,B,B,Islamabad,FAST NUCES
+female,group B,Lahore,Urdu,Sports,Medium,Engrr,House Wife,Pre-Engrr,BSCS,B,A,Lahore,FAST NUCES
+male,group A,Karachi,Urdu,Sports,High,Doctor,House Wife,Pre-Engrr,BSCS,A+,A+,Islamabad,FAST NUCES
+male,group C,Lahore,Urdu,Gaming,Medium,Engrr,House Wife,CS,BSCS,A+,A+,Islamabad,COMSATS
+male,group D,Lahore,Urdu,Gaming,Medium,Engrr,House Wife,Pre-Med,BSSE,A,A,Islamabad,COMSATS
+female,group B,Karachi,Urdu,Writing,Low,Teacher,House Wife,Pre-Engrr,BSCS,A,A,Lahore,COMSATS
+female,group C,Kohat,Hinko,Gaming,Medium,Engrr,House Wife,Pre-Med,Medical,A,B-,Peshawar,KMC
+male,group C,Islamabad,Punjabi,Nothing,Medium,Engrr,House Wife,Pre-Med,Medical,A,A+,Peshawar,KMC
+male,group C,Islamabad,Urdu,Nothing,High,Doctor,Teacher,Pre-Med,Medical,A+,A-,Peshawar,KMC
+male,group D,Peshawar,Pashto,Nothing,Medium,Engrr,Teacher,Arts,BBA,A+,A+,Islamabad,NUST
+male,group A,Lahore,Punjabi,Nothing,High,Doctor,Doctor,Arts,BBA,A,A,Islamabad,NUST
+male,group B,Peshawar,Pashto,Writing,High,Engrr,House Wife,Arts,BBAF,A,A,Islamabad,NUST
+female,group C,Karachi,English,Nothing,Medium,Engrr,Teacher,CS,BSCS,A-,B+,Islamabad,NUST
+male,group C,Peshawar,Pashto,Gaming,Medium,Engrr,House Wife,Pre-Engrr,BSCS,A-,A+,Islamabad,NUST
+female,group B,Peshawar,Urdu,Reading,High,Doctor,Doctor,CS,BSCS,A,A,Lahore,LUMS
+female,group C,Karachi,Urdu,Reading,High,Doctor,Doctor,Pre-Engrr,BSCS,A,A,Lahore,LUMS
+female,group B,Lahore,Hinko,Nothing,High,Doctor,Doctor,Commerce,BBA,A,B-,Lahore,LUMS
+male,group A,Lahore,Punjabi,Nothing,High,Doctor,Doctor,Arts,BBAF,A,A+,Lahore,LUMS
+male,group C,Lahore,Urdu,Writing,High,Doctor,Doctor,Commerce,BBAF,A+,A-,Lahore,LUMS
+male,group B,Lahore,Pashto,Nothing,High,Teacher,Doctor,Arts,BBA,A+,A+,Lahore,LUMS
+male,group C,Bakhar,Punjabi,Gaming,Medium,Doctor,House Wife,CS,BSCS,A,B-,Lahore,LUMS
+male,group B,Kashmir,Pashto,Reading,Medium,Teacher,Doctor,CS,BSCS,A,A+,Lahore,LUMS
+male,group A,Sialkot,English,Nothing,High,Doctor,Doctor,CS,BBA,A+,A-,Lahore,LUMS
+female,group C,Sialkot,Pashto,Reading,High,Army,Doctor,CS,BBA,A+,A+,Lahore,LUMS
+female,group B,Gujrat,Urdu,Reading,High,Army,Doctor,Pre-Engrr,BSEE,A+,A+,Lahore,LUMS
+male,group C,Sialkot,Urdu,Reading,High,Army,Doctor,Pre-Engrr,BSEE,B,B,Lahore,LUMS
+male,group B,Gujrat,Hinko,Nothing,High,Army,Doctor,Pre-Engrr,BSME,B,A,Lahore,LUMS
+female,group A,Lahore,Punjabi,Nothing,High,Doctor,Teacher,Pre-Engrr,BSCE,A+,A+,Lahore,LUMS
+female,group C,Lahore,Urdu,Writing,High,Teacher,Doctor,Pre-Engrr,BSSE,A+,A+,Lahore,LUMS
+male,group A,Karachi,Pashto,Nothing,High,Army,Teacher,Pre-Engrr,BSSE,B,B,Lahore,LUMS
+male,group C,Sialkot,Urdu,Reading,Low,Teacher,House Wife,Pre-Med,Medical,A+,A-,Peshawar,KMC
+female,group B,Gujrat,Urdu,Reading,Low,Engrr,House Wife,Pre-Med,Medical,A+,A+,Peshawar,KMC
+female,group A,Sialkot,Hinko,Nothing,Low,Engrr,House Wife,Pre-Med,Medical,A+,A+,Peshawar,KMC
+male,group C,Gujrat,Punjabi,Nothing,Medium,Engrr,Doctor,Pre-Med,Medical,B,B,Peshawar,KMC
+male,group A,Lahore,Urdu,Writing,Medium,Engrr,Doctor,Pre-Med,Medical,B,A,Peshawar,KMC
+female,group C,Lahore,Pashto,Nothing,Medium,Doctor,House Wife,Pre-Med,Medical,A+,A+,Peshawar,KMC
+female,group B,Karachi,Urdu,Reading,High,Army,Doctor,Pre-Med,Medical,A+,A+,Peshawar,KMC
+male,group A,Sialkot,Urdu,Reading,High,Army,Doctor,Pre-Med,Medical,B,B,Peshawar,KMC
+male,group C,Gujrat,Hinko,Nothing,Low,Teacher,House Wife,Pre-Med,Medical,A+,A-,Peshawar,KMC
+female,group A,Sialkot,Punjabi,Nothing,Low,Retired,House Wife,Pre-Med,Medical,A+,A+,Peshawar,KMC
+female,group C,Gujrat,Urdu,Writing,Low,Retired,Doctor,Pre-Med,Medical,A+,A+,Peshawar,KMC
+male,group B,Lahore,Pashto,Nothing,Medium,Doctor,House Wife,Pre-Med,Medical,B,B,Peshawar,KMC
+male,group A,Lahore,Urdu,Reading,Medium,Teacher,House Wife,Pre-Med,Medical,B,A,Peshawar,KMC
+female,group C,Karachi,Urdu,Reading,Medium,Engrr,House Wife,Pre-Med,Medical,A+,A+,Peshawar,KMC
+male,group C,Gujrat,Punjabi,Nothing,Medium,Engrr,Doctor,CS,BBA,B+,B+,Islamabad,NUST
+male,group A,Lahore,Urdu,Writing,Medium,Engrr,Doctor,Commerce,BBAF,C+,B+,Islamabad,NUST
+female,group C,Lahore,Pashto,Nothing,Medium,Doctor,House Wife,Arts,BBAF,A+,A,Islamabad,NUST
+female,group B,Karachi,Urdu,Reading,High,Army,Doctor,Commerce,BBA,A,A,Islamabad,NUST
+male,group A,Sialkot,Urdu,Reading,High,Army,Doctor,Pre-Engrr,BSCE,A+,A+,Islamabad,NUST
+male,group C,Gujrat,Hinko,Nothing,Low,Teacher,House Wife,Pre-Engrr,BSSE,A+,A-,Islamabad,NUST
+female,group A,Sialkot,Punjabi,Nothing,Low,Retired,House Wife,Pre-Engrr,BSEE,A+,B+,Islamabad,NUST
+female,group C,Gujrat,Urdu,Writing,Low,Retired,Doctor,Pre-Engrr,BSME,A-,B+,Islamabad,NUST
+male,group D,Kohat,Hinko,Nothing,Medium,Doctor,House Wife,Pre-Engrr,BSME,A+,A,Islamabad,NUST
+female,group B,Karachi,Punjabi,Reading,High,Doctor,House Wife,CS,BSCS,A+,A+,Karachi,FAST NUCES
+female,group C,Karachi,Urdu,Reading,Medium,Engrr,House Wife,Pre-Engrr,BSEE,B,B,Islamabad,FAST NUCES
+female,group A,Sialkot,Punjabi,Nothing,Low,Retired,House Wife,Pre-Engrr,BSEE,A+,B+,Islamabad,FAST NUCES
+female,group C,Gujrat,Urdu,Writing,Low,Retired,Doctor,Pre-Engrr,BSME,A-,B+,Islamabad,FAST NUCES
+female,group B,Karachi,Punjabi,Reading,High,Doctor,House Wife,CS,BSCS,A+,A+,Karachi,FAST NUCES
+female,group C,Lahore,English,Sports,High,Army,House Wife,Pre-Engrr,BSEE,A,B-,Islamabad,FAST NUCES
+male,group B,Kohat,Hinko,Reading,Medium,Engrr,House Wife,Pre-Engrr,BSCS,B-,A,Peshawar,FAST NUCES
+male,group D,Lahore,Urdu,Gaming,Medium,Engrr,House Wife,Pre-Med,BSSE,A,A,Islamabad,FAST NUCES
+female,group B,Karachi,Urdu,Writing,Low,Teacher,House Wife,Pre-Engrr,BSCS,A,A,Lahore,FAST NUCES
+female,group C,Karachi,Urdu,Reading,Medium,Engrr,House Wife,Pre-Engrr,BSEE,B,B,Islamabad,FAST NUCES
+male,group D,Lahore,Urdu,Gaming,Medium,Engrr,House Wife,Pre-Med,BSSE,A,A,Islamabad,FAST NUCES
+female,group B,Karachi,Urdu,Writing,Low,Teacher,House Wife,Pre-Engrr,BSCS,A,A,Lahore,FAST NUCES
+female,group A,Bakhar,Urdu,Gaming,Medium,Doctor,House Wife,CS,BSCS,A-,B-,Islamabad,FAST NUCES
+male,group B,Peshawar,Pashto,Writing,High,Engrr,House Wife,Arts,BBAF,A+,A+,Islamabad,COMSATS
+female,group C,Karachi,English,Sports,Medium,Engrr,House Wife,CS,BSCS,A+,A+,Islamabad,COMSATS
+male,group C,Peshawar,Pashto,Gaming,Medium,Engrr,House Wife,Pre-Engrr,BSEE,A+,A+,Islamabad,COMSATS
+female,group D,Karachi,English,Reading,High,Doctor,House Wife,Pre-Engrr,BSCS,A+,B+,Islamabad,COMSATS
+male,group B,Lahore,Pashto,Nothing,High,Teacher,Doctor,Arts,BBA,A+,A+,Lahore,COMSATS
+male,group C,Bakhar,Punjabi,Gaming,Medium,Doctor,House Wife,CS,BSCS,A,B-,Lahore,COMSATS
+male,group B,Kashmir,Pashto,Reading,Medium,Teacher,Doctor,CS,BSCS,A,A+,Lahore,COMSATS
+male,group A,Sialkot,English,Nothing,High,Doctor,Doctor,CS,BBA,A+,A-,Lahore,COMSATS
+female,group C,Sialkot,Pashto,Reading,High,Army,Doctor,CS,BBA,A+,A+,Lahore,COMSATS
+female,group B,Gujrat,Urdu,Reading,Medium,Army,Doctor,Pre-Engrr,BSEE,A+,A+,Lahore,COMSATS
+male,group C,Sialkot,Urdu,Reading,Medium,Army,Doctor,Pre-Engrr,BSEE,B,B,Lahore,COMSATS

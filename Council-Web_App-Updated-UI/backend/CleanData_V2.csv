@@ -1,0 +1,201 @@
+Gender,Race/Ethnicity,Home_City,Preferred_Langauge,Hobby_Interest,Budget (in millions),Fathers_Occupation,Mothers_Occupation,Study_Group,Degree_Program,Matric_Marks,Inter_Marks,Year_of_Admission,Campus,University
+male,Punjabi,Peshawar,Urdu,Nothing,4,Doctor,House Wife,CS,BSCS,990,800,2019,Peshawar,FAST NUCES
+male,Pashtun,Kohat,Pashto,Reading,5,Engrr,House Wife,Pre-Engrr,BSEE,900,924,2020,Islamabad,COMSATS
+male,Punjabi,Islamabad,Punjabi,Gaming,12,Army,Doctor,Pre-Engrr,BSME,930,950,2019,Lahore,LUMS
+female,Punjabi,Islamabad,Urdu,Nothing,4,Engrr,House Wife,Pre-Med,Medical,890,900,2019,Peshawar,KMC
+female,Other,Lahore,English,Sports,10,Doctor,Teacher,Pre-Engrr,BSEE,900,950,2019,Lahore,LUMS
+male,Other,Kohat,Hinko,Reading,9,Army,Doctor,Pre-Engrr,BSCS,870,800,2019,Lahore,LUMS
+male,Other,Karachi,Urdu,Writing,8,Teacher,House Wife,CS,BSCS,900,870,2020,Islamabad,FAST NUCES
+male,Punjabi,Islamabad,Punjabi,Gaming,4,Retired,Doctor,CS,BSCS,930,800,2019,Peshawar,FAST NUCES
+male,Other,Faisalabad,Urdu,Gaming,4,Retired,House Wife,CS,BSCS,890,900,2019,Peshawar,UOP
+male,Other,Lahore,Urdu,Gaming,11,Engrr,Doctor,CS,BSIT,900,910,2019,Lahore,LUMS
+female,Sindhi,Sialkot,Urdu,Writing,9,Engrr,Doctor,Pre-Engrr,BSCS,780,800,2019,Lahore,LUMS
+male,Baloch,Mardan,Urdu,Sports,9,Army,House Wife,Pre-Med,Medical,900,900,2019,Lahore,UHS
+female,Kashmiris,Abbotabad,Urdu,Writing,4,Doctor,Doctor,Pre-Med,Medical,800,900,2019,Peshawar,KMC
+female,Brahuis,Lahore,Urdu,Gaming,7,Teacher,Teacher,CS,BSCS,803,910,2019,Islamabad,FAST NUCES
+male,Muhajirs,Quetta,Urdu,Sports,6,Teacher,House Wife,Pre-Engrr,BSSE,900,700,2019,Islamabad,FAST NUCES
+male,Punjabi,Karachi,Urdu,Nothing,12,Doctor,House Wife,Pre-Med,Medical,900,920,2020,Lahore,UHS
+male,Other,Karachi,Urdu,Gaming,9,Doctor,Teacher,Pre-Med,Medical,1010,900,2019,Karachi,Aga Khan
+female,Punjabi,Lahore,Punjabi,Writing,7,Engrr,Doctor,Pre-Engrr,BSME,980,950,2019,Islamabad,NUST
+male,Kashmiris,Other,Urdu,Sports,5,Engrr,House Wife,Pre-Engrr,BSEE,800,870,2019,Peshawar,UET
+female,Pashtun,Peshawar,Pashto,Writing,7,Engrr,Teacher,Pre-Engrr,BSEE,900,970,2020,Peshawar,IMsciences
+female,Pashtun,Kohat,Hinko,Gaming,5,Engrr,House Wife,Pre-Med,Medical,900,910,2019,Peshawar,KMC
+male,Pashtun,Peshawar,Urdu,Sports,3,Engrr,House Wife,CS,BSCS,900,870,2019,Peshawar,FAST NUCES
+male,Punjabi,Lahore,Urdu,Writing,12,Doctor,House Wife,Pre-Med,Medical,980,1002,2019,Lahore,UHS
+female,Other,Lahore,Urdu,Sports,11,Doctor,Teacher,CS,BSCS,970,1000,2019,Lahore,LUMS
+female,Pashtun,Peshawar,Urdu,Writing,8,Engrr,Doctor,Pre-Engrr,BSME,997,968,2019,Risalpur,NUST
+male,Sindhi,Other,Urdu,Gaming,4,Engrr,House Wife,Pre-Engrr,BSEE,890,900,2019,Peshawar,UET
+male,Baloch,Other,Urdu,Sports,5,Engrr,Teacher,Pre-Engrr,BSEE,700,890,2019,Peshawar,IMsciences
+male,Kashmiris,Other,Urdu,Nothing,3,Engrr,House Wife,Pre-Med,Medical,800,820,2019,Peshawar,KMC
+female,Brahuis,Other,Urdu,Gaming,6,Engrr,House Wife,CS,BSCS,970,868,2019,Peshawar,FAST NUCES
+male,Muhajirs,Islamabad,Urdu,Writing,13,Doctor,House Wife,Pre-Med,Medical,980,987,2020,Lahore,UHS
+female,Punjabi,Islamabad,Urdu,Sports,8,Doctor,Teacher,Pre-Med,Medical,978,992,2020,Karachi,Aga Khan
+female,Pashtun,Peshawar,Urdu,Writing,6,Engrr,Doctor,Pre-Engrr,BSME,970,1002,2019,Risalpur,NUST
+male,Punjabi,Islamabad,Urdu,Gaming,3,Engrr,House Wife,Pre-Engrr,BSEE,780,882,2019,Peshawar,UET
+male,Baloch,Other,Urdu,Sports,5,Engrr,Teacher,Pre-Engrr,BSEE,700,890,2019,Peshawar,IMsciences
+male,Kashmiris,Other,Urdu,Nothing,3,Engrr,House Wife,Pre-Med,Medical,800,820,2019,Peshawar,KMC
+female,Brahuis,Other,Urdu,Gaming,6,Engrr,House Wife,CS,BSCS,970,868,2019,Peshawar,FAST NUCES
+male,Other,Karachi,Urdu,Gaming,9,Doctor,Teacher,CS,BSCS,1010,900,2019,Karachi,Aga Khan
+female,Other,Islamabad,Punjabi,Writing,7,Engrr,Doctor,Pre-Engrr,BSME,980,950,2019,Islamabad,NUST
+male,Other,Peshawar,Urdu,Gaming,4,Retired,House Wife,CS,BSCS,893,980,2019,Peshawar,UOP
+male,Other,Kohat,Hinko,Reading,10,Army,Doctor,Pre-Engrr,BSCS,980,970,2019,Lahore,LUMS
+male,Other,Karachi,Urdu,Writing,7,Teacher,House Wife,CS,BSCS,965,978,2020,Islamabad,FAST NUCES
+male,Punjabi,Islamabad,Punjabi,Gaming,4,Retired,Doctor,CS,BSCS,946,890,2019,Peshawar,FAST NUCES
+male,Pashtun,Peshawar,Pashto,Gaming,3,Engrr,House Wife,Pre-Engrr,BSEE,640,740,2019,Peshawar,UET
+male,Punjabi,Islamabad,Punjabi,Nothing,5,Retired,Doctor,CS,BSCS,780,800,2019,Peshawar,FAST NUCES
+male,Pashtun,Peshawar,Pashto,Gaming,4,Engrr,House Wife,Pre-Engrr,BSME,698,760,2019,Peshawar,UET
+male,Punjabi,Islamabad,Urdu,Nothing,4,Doctor,House Wife,CS,BSCS,920,950,2020,Islamabad,COMSATS
+male,Pashtun,Peshawar,Urdu,Nothing,5,Doctor,House Wife,CS,BSCS,920,950,2020,Islamabad,COMSATS
+male,Punjabi,Lahore,Punjabi,Gaming,5,Engrr,Doctor,CS,BSCS,920,960,2019,Islamabad,COMSATS
+male,Other,Karachi,Urdu,Gaming,7,Doctor,Teacher,CS,BSCS,880,920,2019,Islamabad,COMSATS
+male,Other,Kohat,Hinko,Writing,4,Retired,House Wife,Pre-Engrr,BSCS,900,984,2019,Peshawar,UOP
+male,Other,Peshawar,Pashto,Writing,5,Engrr,House Wife,Pre-Engrr,BSEE,910,984,2019,Peshawar,UOP
+male,Other,Kohat,Urdu,Nothing,5,Engrr,House Wife,Pre-Engrr,BSEE,850,900,2019,Peshawar,UOP
+male,Other,Peshawar,Urdu,Gaming,4,Engrr,House Wife,Pre-Engrr,BSME,800,890,2019,Peshawar,UOP
+male,Sindhi,Karachi,Urdu,Gaming,9,Doctor,Teacher,Pre-Engrr,BSEE,990,990,2019,Karachi,Aga Khan
+male,Sindhi,Karachi,Urdu,Nothing,8,Doctor,Teacher,Pre-Engrr,BSEE,980,1003,2019,Karachi,Aga Khan
+male,Other,Islamabad,Punjabi,Gaming,9,Doctor,Teacher,Pre-Engrr,BSEE,999,1010,2019,Karachi,Aga Khan
+male,Other,Karachi,Urdu,Gaming,10,Doctor,Teacher,Pre-Engrr,BSEE,999,1010,2019,Karachi,Aga Khan
+male,Baloch,Abbotabad,Urdu,Nothing,9,Doctor,Teacher,CS,BSCS,980,910,2019,Islamabad,FAST NUCES
+female,Kashmiris,Lahore,Urdu,Gaming,7,Doctor,Teacher,Pre-Engrr,BSEE,780,810,2019,Peshawar,IMsciences
+male,Brahuis,Quetta,Urdu,Gaming,8,Doctor,Teacher,Pre-Engrr,BSEE,790,820,2019,Peshawar,IMsciences
+male,Muhajirs,Karachi,Urdu,Nothing,4,Doctor,Teacher,Pre-Engrr,BSEE,800,820,2019,Peshawar,FAST NUCES
+male,Punjabi,Mardan,Urdu,Gaming,10,Doctor,Teacher,Pre-Med,Medical,999,1000,2019,Lahore,UHS
+male,Other,Karachi,Urdu,Gaming,13,Army,Doctor,Pre-Med,Medical,1000,998,2019,Lahore,UHS
+female,Other,Kohat,Urdu,Writing,8,Engrr,Doctor,Pre-Engrr,BSCE,997,970,2019,Risalpur,NUST
+male,Other,Karachi,Urdu,Gaming,8,Engrr,Doctor,Pre-Engrr,BSME,990,968,2019,Karachi,NUST
+female,Sindhi,Karachi,Urdu,Gaming,9,Engrr,Doctor,Pre-Engrr,BSEE,999,980,2019,Karachi,NUST
+male,Punjabi,Lahore,Urdu,Gaming,9,Engrr,Doctor,Pre-Engrr,BSCE,1000,1009,2019,Islamabad,NUST
+male,Other,Peshawar,Urdu,Gaming,8,Engrr,Doctor,Pre-Engrr,BSME,997,999,2019,Risalpur,NUST
+male,Other,Islamabad,Urdu,Gaming,9,Engrr,Doctor,Pre-Engrr,BSCS,970,980,2019,Islamabad,NUST
+male,Other,Faisalabad,Urdu,Gaming,4,Retired,House Wife,CS,BSCS,890,900,2019,Peshawar,UOP
+male,Other,Lahore,Urdu,Gaming,11,Engrr,Doctor,CS,BSIT,900,910,2019,Lahore,LUMS
+female,Sindhi,Sialkot,Urdu,Writing,9,Engrr,Doctor,Pre-Engrr,BSCS,780,800,2019,Lahore,LUMS
+male,Baloch,Mardan,Urdu,Sports,9,Army,House Wife,Pre-Med,Medical,890,890,2019,Lahore,UHS
+male,Kashmiris,Abbotabad,Urdu,Writing,4,Doctor,Doctor,Pre-Med,Medical,800,900,2019,Peshawar,KMC
+male,Brahuis,Lahore,Urdu,Gaming,7,Teacher,Teacher,CS,BSCS,960,970,2019,Islamabad,FAST NUCES
+male,Muhajirs,Quetta,Urdu,Sports,6,Teacher,House Wife,Pre-Engrr,BSCE,910,950,2019,Islamabad,FAST NUCES
+male,Punjabi,Karachi,Urdu,Nothing,12,Doctor,House Wife,Pre-Med,Medical,900,920,2020,Lahore,UHS
+male,Other,Mardan,Urdu,Gaming,9,Doctor,Teacher,CS,BSCS,1010,900,2019,Karachi,Aga Khan
+male,Punjabi,Lahore,Punjabi,Writing,7,Engrr,Doctor,Pre-Engrr,BSME,980,950,2019,Islamabad,NUST
+male,Pashtun,Peshawar,Pashto,Gaming,4,Engrr,House Wife,Pre-Engrr,BSEE,698,760,2019,Peshawar,UET
+male,Punjabi,Islamabad,Urdu,Nothing,4,Doctor,House Wife,CS,BSCS,930,950,2020,Islamabad,COMSATS
+male,Other,Karachi,Urdu,Nothing,6,Doctor,House Wife,CS,BSCS,925,980,2020,Islamabad,COMSATS
+male,Punjabi,Lahore,Punjabi,Gaming,6,Engrr,Doctor,CS,BSCS,928,968,2019,Islamabad,COMSATS
+male,Other,Karachi,Urdu,Gaming,7,Doctor,Doctor,CS,BSCS,900,954,2019,Islamabad,COMSATS
+male,Pashtun,Kohat,Urdu,Nothing,4,Engrr,House Wife,Pre-Engrr,BSME,700,780,2019,Peshawar,UET
+male,Other,Peshawar,Urdu,Nothing,5,Engrr,House Wife,Pre-Engrr,BSCE,730,795,2019,Peshawar,UET
+male,Other,Islamabad,Pashto,Nothing,4,Engrr,House Wife,Pre-Engrr,BSEE,720,792,2019,Peshawar,UET
+male,Pashtun,Peshawar,Pashto,Nothing,4,Engrr,House Wife,Pre-Engrr,BSCE,763,843,2019,Peshawar,UET
+male,Pashtun,Kohat,Hinko,Gaming,4,Engrr,Teacher,Pre-Engrr,BSME,780,810,2019,Peshawar,IMsciences
+male,Pashtun,Peshawar,Urdu,Gaming,6,Doctor,Teacher,Pre-Engrr,BSCE,745,820,2019,Peshawar,IMsciences
+male,Pashtun,Kohat,Hinko,Gaming,4,Engrr,Teacher,Pre-Engrr,BSCE,789,812,2019,Peshawar,IMsciences
+male,Other,Islamabad,Urdu,Nothing,6,Doctor,Teacher,Pre-Engrr,BSCE,729,803,2019,Peshawar,IMsciences
+male,Other,Faisalabad,Urdu,Gaming,4,Retired,House Wife,CS,BSCS,890,900,2019,Peshawar,UOP
+male,Other,Islamabad,Urdu,Nothing,5,Retired,House Wife,CS,BSCS,899,920,2019,Peshawar,UOP
+male,Other,Peshawar,Urdu,Nothing,5,Retired,House Wife,Pre-Engrr,BSEE,870,930,2019,Peshawar,UOP
+male,Other,Peshawar,Pashto,Nothing,5,Retired,House Wife,Pre-Engrr,BSEE,879,935,2019,Peshawar,UOP
+male,Other,Peshawar,Pashto,Nothing,5,Retired,House Wife,Pre-Engrr,BSME,900,930,2019,Peshawar,UOP
+male,Other,Peshawar,Pashto,Nothing,5,Retired,House Wife,Pre-Engrr,BSME,902,903,2019,Peshawar,UOP
+male,Pashtun,Kohat,Hinko,Gaming,4,Engrr,Teacher,Pre-Engrr,BSME,920,930,2019,Peshawar,IMsciences
+male,Pashtun,Peshawar,Urdu,Gaming,4,Doctor,Teacher,Pre-Engrr,BSCE,729,803,2019,Peshawar,IMsciences
+male,Pashtun,Kohat,Hinko,Gaming,5,Engrr,Teacher,Pre-Engrr,BSCE,890,900,2019,Peshawar,IMsciences
+male,Other,Islamabad,Urdu,Nothing,5,Doctor,Teacher,Pre-Engrr,BSCE,899,920,2019,Peshawar,IMsciences
+male,Other,Faisalabad,Urdu,Gaming,4,Retired,House Wife,CS,BSCS,870,930,2019,Peshawar,UOP
+male,Other,Islamabad,Urdu,Nothing,4,Retired,House Wife,CS,BSCS,879,935,2019,Peshawar,UOP
+male,Other,Peshawar,Urdu,Nothing,5,Retired,House Wife,Pre-Engrr,BSEE,729,803,2019,Peshawar,UOP
+male,Other,Peshawar,Pashto,Nothing,4,Retired,House Wife,Pre-Engrr,BSEE,890,900,2019,Peshawar,UOP
+male,Other,Peshawar,Pashto,Nothing,4,Retired,House Wife,Pre-Engrr,BSME,899,920,2019,Peshawar,UOP
+male,Other,Peshawar,Pashto,Nothing,5,Retired,House Wife,Pre-Engrr,BSME,870,930,2019,Peshawar,UOP
+male,Pashtun,Kohat,Hinko,Gaming,4,Engrr,Teacher,Pre-Engrr,BSME,879,935,2019,Peshawar,IMsciences
+male,Pashtun,Peshawar,Urdu,Gaming,4,Doctor,Teacher,Pre-Engrr,BSCE,990,899,2019,Peshawar,IMsciences
+male,Punjabi,Islamabad,Urdu,Nothing,3,Engrr,House Wife,Pre-Med,Medical,892,900,2019,Peshawar,KMC
+male,Pashtun,Peshawar,Urdu,Nothing,3,Engrr,House Wife,Pre-Med,Medical,892,900,2019,Peshawar,KMC
+male,Pashtun,Peshawar,Urdu,Nothing,3,Retired,Doctor,Pre-Med,Medical,980,999,2019,Peshawar,KMC
+male,Pashtun,Peshawar,Urdu,Nothing,4,Doctor,House Wife,Pre-Med,Medical,987,859,2019,Peshawar,KMC
+male,Pashtun,Peshawar,Urdu,Nothing,3,Retired,Teacher,Pre-Med,Medical,965,879,2019,Peshawar,KMC
+male,Pashtun,Peshawar,Urdu,Nothing,4,Retired,Teacher,Pre-Med,Medical,985,987,2019,Peshawar,KMC
+male,Pashtun,Peshawar,Urdu,Nothing,3,Retired,Teacher,Pre-Med,Medical,956,879,2019,Peshawar,KMC
+male,Pashtun,Peshawar,Urdu,Nothing,3,Engrr,House Wife,Pre-Med,Medical,988,856,2019,Peshawar,KMC
+male,Pashtun,Peshawar,Urdu,Nothing,3,Engrr,House Wife,Pre-Med,Medical,968,842,2019,Peshawar,KMC
+male,Other,Peshawar,Pashto,Nothing,4,Retired,House Wife,Pre-Engrr,BSCS,900,860,2019,Peshawar,UOP
+male,Other,Karachi,Urdu,Gaming,10,Doctor,Teacher,Pre-Med,Medical,1010,900,2019,Karachi,Aga Khan
+male,Other,Karachi,Urdu,Nothing,9,Doctor,Teacher,Pre-Med,Medical,1000,999,2019,Karachi,Aga Khan
+male,Other,Sialkot,Urdu,Gaming,9,Doctor,Teacher,Pre-Med,Medical,1000,1098,2019,Karachi,Aga Khan
+male,Other,Karachi,Urdu,Nothing,9,Doctor,Teacher,CS,BSCS,980,990,2019,Karachi,Aga Khan
+male,Other,Islamabad,Punjabi,Gaming,10,Doctor,Teacher,Pre-Med,Medical,999,1003,2019,Karachi,Aga Khan
+male,Punjabi,Mardan,Urdu,Gaming,10,Doctor,Teacher,Pre-Med,Medical,999,1000,2019,Lahore,UHS
+male,Other,Karachi,Urdu,Gaming,13,Army,Doctor,Pre-Med,Medical,1000,998,2019,Lahore,UHS
+male,Punjabi,Lahore,Punjabi,Reading,10,Doctor,Teacher,Pre-Med,Medical,1000,1000,2019,Lahore,UHS
+male,Other,Lahore,Punjabi,Nothing,13,Army,Doctor,Pre-Med,Medical,980,999,2019,Lahore,UHS
+male,Other,Karachi,Urdu,Gaming,10,Doctor,Teacher,Pre-Med,Medical,1010,900,2019,Lahore,UHS
+male,Other,Karachi,Urdu,Gaming,10,Doctor,Teacher,Pre-Med,Medical,999,1000,2019,Karachi,Aga Khan
+male,Sindhi,Karachi,Urdu,Gaming,13,Army,Doctor,Pre-Med,Medical,1000,998,2019,Karachi,Aga Khan
+male,Punjabi,Lahore,Punjabi,Reading,10,Doctor,Teacher,Pre-Med,Medical,1000,1000,2019,Karachi,Aga Khan
+male,Pashtun,Peshawar,Urdu,Nothing,4,Doctor,House Wife,Pre-Med,Medical,987,859,2020,Peshawar,KMC
+male,Pashtun,Peshawar,Urdu,Nothing,3,Retired,Teacher,Pre-Engrr,BSCS,965,879,2020,Peshawar,FAST NUCES
+male,Pashtun,Peshawar,Urdu,Nothing,4,Retired,Teacher,Pre-Engrr,BSEE,985,987,2020,Peshawar,UET
+male,Other,Peshawar,Urdu,Nothing,3,Retired,Teacher,Pre-Engrr,BSEE,956,879,2020,Peshawar,UET
+male,Other,Kohat,Urdu,Nothing,3,Engrr,House Wife,CS,BSCS,999,856,2020,Peshawar,FAST NUCES
+male,Punjabi,Kohat,Urdu,Nothing,3,Engrr,House Wife,Pre-Engrr,BSCS,998,842,2020,Peshawar,FAST NUCES
+male,Other,Karachi,Urdu,Nothing,4,Doctor,House Wife,Pre-Engrr,BSSE,996,996,2020,Karachi,NUST
+male,Other,Karachi,Urdu,Nothing,6,Doctor,House Wife,Pre-Engrr,BSCS,990,990,2020,Karachi,NUST
+male,Other,Karachi,Punjabi,Reading,6,Engrr,Doctor,Pre-Engrr,BSEE,1000,998,2019,Karachi,NUST
+male,Other,Lahore,Urdu,Writing,7,Doctor,Teacher,Pre-Engrr,BSEE,1004,920,2019,Islamabad,NUST
+female,Other,Kohat,Urdu,Writing,8,Engrr,Doctor,Pre-Engrr,BSCE,997,970,2019,Islamabad,COMSATS
+male,Pashtun,Peshawar,Urdu,Gaming,8,Engrr,Doctor,CS,BSME,990,968,2019,Islamabad,COMSATS
+female,Pashtun,Peshawar,Urdu,Gaming,9,Engrr,Doctor,CS,BSCS,999,980,2019,Islamabad,COMSATS
+male,Other,Islamabad,Urdu,Gaming,9,Engrr,Doctor,CS,BSCS,990,998,2019,Islamabad,COMSATS
+male,Other,Islamabad,Urdu,Gaming,8,Engrr,Doctor,CS,BSCS,997,940,2019,Islamabad,COMSATS
+male,Other,Islamabad,Urdu,Gaming,9,Engrr,Doctor,CS,BSCS,970,950,2019,Islamabad,COMSATS
+male,Other,Kohat,Hinko,Reading,10,Army,Doctor,Pre-Engrr,BSCS,980,970,2019,Lahore,LUMS
+male,Punjabi,Islamabad,Urdu,Reading,12,Army,Doctor,Commerce,BBA,999,991,2019,Lahore,LUMS
+male,Other,Lahore,Punjabi,Nothing,10,Army,Doctor,Pre-Engrr,BSCE,980,970,2019,Lahore,LUMS
+male,Punjabi,Islamabad,Urdu,Gaming,12,Army,Doctor,Commerce,BBA,1000,991,2019,Lahore,LUMS
+male,Other,Islamabad,Urdu,Gaming,10,Doctor,Doctor,Pre-Engrr,BSEE,980,963,2019,Lahore,LUMS
+male,Punjabi,Lahore,Punjabi,Gaming,12,Doctor,Teacher,Commerce,BBA,999,987,2019,Lahore,LUMS
+male,Other,Islamabad,Punjabi,Nothing,10,Doctor,Teacher,Pre-Engrr,BSME,1000,1003,2019,Lahore,LUMS
+male,Punjabi,Islamabad,Urdu,Nothing,12,Army,Teacher,Commerce,BBA,999,991,2019,Lahore,LUMS
+male,Muhajirs,Karachi,Punjabi,Writing,4,Engrr,House Wife,Pre-Engrr,BSEE,800,834,2019,Peshawar,UET
+female,Muhajirs,Karachi,Punjabi,Reading,4,Engrr,House Wife,Pre-Engrr,BSME,820,800,2019,Peshawar,UET
+male,Sindhi,Sukkur�,Sindhi,Nothing,5,Engrr,Teacher,Pre-Engrr,BSEE,830,835,2019,Peshawar,UET
+male,Sindhi,Karachi,Sindhi,Gaming,4,Engrr,House Wife,Pre-Engrr,BSME,810,820,2019,Peshawar,UET
+male,Punjabi,Islamabad,Punjabi,Nothing,4,Doctor,House Wife,Pre-Engrr,BSEE,920,945,2019,Peshawar,IMsciences
+female,Pashtun,Kohat,Punjabi,Reading,5,Engrr,House Wife,Pre-Engrr,BSME,900,910,2019,Peshawar,IMsciences
+male,Sindhi,Sukkur�,Sindhi,Gaming,5,Engrr,Teacher,Pre-Engrr,BSEE,870,900,2019,Peshawar,IMsciences
+male,Sindhi,Karachi,Sindhi,Gaming,4,Engrr,House Wife,Pre-Engrr,BSME,940,970,2019,Peshawar,IMsciences
+male,Other,Lahore,Urdu,Nothing,13,Army,Doctor,Pre-Med,Medical,980,999,2019,Lahore,UHS
+male,Other,Karachi,Urdu,Gaming,11,Doctor,Teacher,Pre-Med,Medical,1001,950,2019,Lahore,UHS
+male,Punjabi,Lahore,Urdu,Nothing,13,Army,Doctor,Pre-Med,Medical,997,999,2019,Lahore,UHS
+male,Punjabi,Karachi,Urdu,Gaming,11,Doctor,Teacher,Pre-Med,Medical,1010,940,2019,Lahore,UHS
+female,Punjabi,Islamabad,Urdu,Nothing,7,Doctor,Teacher,Commerce,BBA,967,1010,2020,Islamabad,FAST NUCES
+male,Punjabi,Islamabad,Urdu,Gaming,7,Doctor,Teacher,CS,BSCS,985,999,2020,Islamabad,FAST NUCES
+male,Baloch,Other,Urdu,Nothing,5,Engrr,House Wife,Pre-Engrr,BSEE,710,899,2019,Peshawar,IMsciences
+male,Punjabi,Islamabad,Urdu,Gaming,11,Doctor,Teacher,Pre-Med,Medical,999,1000,2019,Lahore,UHS
+male,Other,Islamabad,Urdu,Gaming,13,Army,Doctor,Pre-Med,Medical,980,999,2019,Lahore,UHS
+male,Other,Lahore,Punjabi,Gaming,11,Doctor,Teacher,Pre-Med,Medical,1010,970,2019,Lahore,UHS
+male,Punjabi,Lahore,Punjabi,Nothing,12,Army,Doctor,Commerce,BBA,1000,991,2019,Lahore,LUMS
+male,Other,Islamabad,Urdu,Gaming,11,Doctor,Doctor,Pre-Engrr,BSEE,980,963,2019,Lahore,LUMS
+male,Punjabi,Lahore,Punjabi,Gaming,12,Doctor,Teacher,Commerce,BBA,999,987,2019,Lahore,LUMS
+male,Pashtun,Kohat,Hinko,Sports,3,Engrr,House Wife,Pre-Engrr,BSEE,640,740,2019,Peshawar,UET
+male,Pashtun,Peshawar,Pashto,Sports,4,Engrr,House Wife,Pre-Engrr,BSME,698,760,2019,Peshawar,UET
+male,Pashtun,Kohat,Urdu,Sports,4,Engrr,House Wife,Pre-Engrr,BSME,700,780,2019,Peshawar,UET
+male,Other,Peshawar,Urdu,Sports,4,Engrr,House Wife,Pre-Engrr,BSCE,730,795,2019,Peshawar,UET
+female,Sindhi,Karachi,Urdu,Nothing,9,Doctor,Teacher,Pre-Engrr,BSEE,1001,1000,2019,Karachi,Aga Khan
+female,Sindhi,Karachi,Urdu,Gaming,9,Doctor,Teacher,Pre-Med,Medical,1000,1098,2019,Karachi,Aga Khan
+male,Sindhi,Karachi,Urdu,Nothing,10,Doctor,Teacher,CS,BSCS,986,998,2019,Karachi,Aga Khan
+male,Other,Islamabad,Punjabi,Gaming,10,Doctor,Teacher,Pre-Engrr,BSEE,978,1005,2019,Karachi,Aga Khan
+female,Pashtun,Peshawar,Pashto,Reading,4,Engrr,House Wife,Pre-Med,Medical,899,870,2019,Peshawar,KMC
+female,Pashtun,Peshawar,Pashto,Writing,4,Engrr,House Wife,Pre-Med,Medical,900,920,2019,Peshawar,KMC
+female,Pashtun,Peshawar,Pashto,Reading,4,Engrr,House Wife,Pre-Med,Medical,902,910,2019,Peshawar,KMC
+male,Sindhi,Karachi,Sindhi,Nothing,4,Engrr,Teacher,Pre-Med,Medical,845,876,2019,Peshawar,KMC
+male,Punjabi,Lahore,Punjabi,Writing,7,Engrr,Doctor,CS,BSCS,999,956,2019,Islamabad,COMSATS
+male,Punjabi,Lahore,Punjabi,Writing,7,Engrr,Doctor,CS,BSCS,987,967,2019,Islamabad,COMSATS
+male,Punjabi,Lahore,Punjabi,Writing,7,Engrr,Doctor,CS,BSCS,988,970,2019,Islamabad,COMSATS
+male,Brahuis,Islamabad,Urdu,Gaming,7,Teacher,Teacher,CS,BSCS,967,970,2019,Islamabad,COMSATS
+male,Muhajirs,Islamabad,Urdu,Sports,6,Teacher,House Wife,Pre-Engrr,BSME,956,950,2019,Islamabad,COMSATS
+male,Punjabi,Karachi,Urdu,Nothing,4,Doctor,House Wife,Pre-Engrr,BSCE,996,997,2019,Karachi,NUST
+male,Other,Karachi,Urdu,Gaming,6,Doctor,House Wife,Pre-Engrr,BSCE,990,999,2019,Karachi,NUST
+male,Other,Karachi,Punjabi,Gaming,7,Engrr,Doctor,Pre-Engrr,BSME,1010,998,2019,Karachi,NUST
+male,Other,Lahore,Urdu,Gaming,7,Doctor,Teacher,Pre-Engrr,BSEE,1009,920,2019,Islamabad,NUST
+male,Sindhi,Karachi,Sindhi,Writing,6,Doctor,Teacher,Pre-Engrr,BSEE,997,967,2020,Karachi,NUST
