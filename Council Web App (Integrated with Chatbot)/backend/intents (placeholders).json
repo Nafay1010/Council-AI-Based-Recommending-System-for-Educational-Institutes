@@ -1,0 +1,121 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    
+    
+    {
+      "tag": "help",
+      "patterns": ["Can you help me?", "I need assistance", "I'm lost", "Can you guide me?"],
+      "responses": ["Sure! I'd be happy to help you. What do you need assistance with?", "Of course! What can I assist you with today?",
+        "No problem! How can I guide you?", "Absolutely! What do you need help with?", "Definitely! What can I do to assist you?"]
+    },
+    
+    {
+      "tag": "university_search",
+      "patterns": ["Can you recommend a university?", "What university should I attend?", "Which universities are the best?", "I need help finding a university"],
+      "responses": ["Certainly! What are your preferences and priorities for a university?",
+        "Of course! What are you looking for in a university?", "Absolutely! What factors are important to you when selecting a university?",
+        "Sure! What are your goals and aspirations for attending a university?"]
+    },
+    
+    {
+      "tag": "location",
+      "patterns": ["Where is the university located?", "What are some universities in this area?", "Can you recommend a university in a specific location?"],
+      "responses": ["Sure! Which location or region are you interested in?",
+        "Absolutely! Which city or state are you considering for a university?",
+        "Of course! Which country or continent are you interested in for a university?"]
+    },
+    
+    {
+      "tag": "admissions",
+      "patterns": ["What are the admission requirements?", "How do I apply?", "What documents do I need to submit?", "What is the application deadline?"],
+      "responses": ["Great question! Admission requirements vary by university and program. Have you already selected a university?",
+        "Certainly! The application process can be different for each university. Which university are you interested in?",
+        "Of course! The documents required for admission can vary by university and program. Which university are you considering?",
+        "Absolutely! The application deadline can vary by university and program. Which university are you interested in applying to?"]
+    },
+    
+    {
+      "tag": "tuition",
+      "patterns": ["What is the cost of tuition?", "Are there any scholarships or financial aid available?", "Which universities offer scholarships?"],
+      "responses": ["Sure thing! Tuition costs can vary by university and program. Which university are you interested in?",
+        "Absolutely! Many universities offer scholarships and financial aid. What is your financial need?", "Of course! What is your academic profile and financial need?"]
+    },
+    
+    {
+      "tag": "housing",
+      "patterns": ["What are the housing options?", "Can you recommend a university with affordable housing?", "What is the cost of living on campus?"],
+      "responses": ["Certainly! Housing and cost of living are important factors to consider. Which university are you interested in?",
+        "Of course! Which university's housing options would you like me to describe?"
+      ]
+    }
+  ]
+}
