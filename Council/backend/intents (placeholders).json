@@ -1,0 +1,385 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi there",
+        "Is anyone there?",
+        "Hey",
+        "Hola",
+        "Hello",
+        "Helloo",
+        "Good day",
+        "Namaste",
+        "yo"
+      ],
+      "responses": [
+        "Hello",
+        "Good to see you again",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "See yaa",
+        "Get lost",
+        "Till next time",
+        "bbye"
+      ],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Awesome, thanks",
+        "Thanks for helping me"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure"
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?",
+        "Joke",
+        "Make me laugh"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison.",
+        "A perfectionist walked into a bar...apparently, the bar wasn't set high enough",
+        "I ate a clock yesterday, it was very time-consuming",
+        "Never criticize someone until you've walked a mile in their shoes. That way, when you criticize them, they won't be able to hear you from that far away. Plus, you'll have their shoes.",
+        "The world tongue-twister champion just got arrested. I hear they're gonna give him a really tough sentence.",
+        "I own the world's worst thesaurus. Not only is it awful, it's awful.",
+        "What did the traffic light say to the car? \"Don't look now, I'm changing.\"",
+        "What do you call a snowman with a suntan? A puddle.",
+        "How does a penguin build a house? Igloos it together",
+        "I went to see the doctor about my short-term memory problems – the first thing he did was make me pay in advance",
+        "As I get older and I remember all the people I’ve lost along the way, I think to myself, maybe a career as a tour guide wasn’t for me.",
+        "o what if I don't know what 'Armageddon' means? It's not the end of the world."
+      ]
+    },
+    {
+      "tag": "options",
+      "patterns": [
+        "How you could help me?",
+        "What you can do?",
+        "What help you provide?",
+        "How you can be helpful?",
+        "What support is offered"
+      ],
+      "responses": [
+        "I am a general purpose chatbot. My capabilities are : \n 1. I can chat with you. Try asking me for jokes or riddles! \n 2. Ask me the date and time \n 3. I can google search for you. Use format google: your query \n 4. I can get the present weather for any city. Use format weather: city name \n 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' \n 6. I can get you the top 10 trending songs globally. Type 'songs' \n 7. I can set a timer for you. Enter 'set a timer: minutes to timer' \n 8. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' \n For suggestions to help me improve, send an email to ted.thedlbot.suggestions@gmail.com . Thank you!! "
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "Can you help me?",
+        "I need assistance",
+        "I'm lost",
+        "Can you guide me?"
+      ],
+      "responses": [
+        "Sure! I'd be happy to help you. What do you need assistance with?",
+        "Of course! What can I assist you with today?",
+        "No problem! How can I guide you?",
+        "Absolutely! What do you need help with?",
+        "Definitely! What can I do to assist you?"
+      ]
+    },
+    {
+      "tag": "university_search",
+      "patterns": [
+        "Can you recommend a university?",
+        "What university should I attend?",
+        "Which universities are the best?",
+        "I need help finding a university"
+      ],
+      "responses": [
+        "Certainly! What are your preferences and priorities for a university?",
+        "Of course! What are you looking for in a university?",
+        "Absolutely! What factors are important to you when selecting a university?",
+        "Sure! What are your goals and aspirations for attending a university?"
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Where is the university located?",
+        "What are some universities in this area?",
+        "Can you recommend a university in a specific location?"
+      ],
+      "responses": [
+        "Sure! Which location or region are you interested in?",
+        "Absolutely! Which city or state are you considering for a university?",
+        "Of course! Which country or continent are you interested in for a university?"
+      ]
+    },
+    {
+      "tag": "admissions",
+      "patterns": [
+        "What are the admission requirements?",
+        "How do I apply?",
+        "What documents do I need to submit?",
+        "What is the application deadline?"
+      ],
+      "responses": [
+        "Great question! Admission requirements vary by university and program. Have you already selected a university?",
+        "Certainly! The application process can be different for each university. Which university are you interested in?",
+        "Of course! The documents required for admission can vary by university and program. Which university are you considering?",
+        "Absolutely! The application deadline can vary by university and program. Which university are you interested in applying to?"
+      ]
+    },
+    {
+      "tag": "tuition",
+      "patterns": [
+        "What is the cost of tuition?",
+        "Are there any scholarships or financial aid available?",
+        "Which universities offer scholarships?"
+      ],
+      "responses": [
+        "Sure thing! Tuition costs can vary by university and program. Which university are you interested in?",
+        "Absolutely! Many universities offer scholarships and financial aid. What is your financial need?",
+        "Of course! What is your academic profile and financial need?"
+      ]
+    },
+    {
+      "tag": "housing",
+      "patterns": [
+        "What are the housing options?",
+        "Can you recommend a university with affordable housing?",
+        "What is the cost of living on campus?"
+      ],
+      "responses": [
+        "Certainly! Housing and cost of living are important factors to consider. Which university are you interested in?",
+        "Of course! Which university's housing options would you like me to describe?"
+      ]
+    },
+    {
+      "tag": "Identity",
+      "patterns": [
+        "Who are you",
+        "what are you"
+      ],
+      "responses": [
+        "I am Council-Bot, a Deep-Learning Chatbot"
+      ]
+    },
+    {
+      "tag": "whatsup",
+      "patterns": [
+        "Whats up",
+        "Wazzup",
+        "How are you",
+        "sup",
+        "How you doing"
+      ],
+      "responses": [
+        "All good. What about you?"
+      ]
+    },
+    {
+      "tag": "haha",
+      "patterns": [
+        "haha",
+        "lol",
+        "rofl",
+        "lmao",
+        "thats funny"
+      ],
+      "responses": [
+        "Glad I could make you laugh !"
+      ]
+    },
+    {
+      "tag": "programmer",
+      "patterns": [
+        "Who made you",
+        "who designed you",
+        "who programmed you"
+      ],
+      "responses": [
+        "I was made by a group of idiots."
+      ]
+    },
+    {
+      "tag": "insult",
+      "patterns": [
+        "you are dumb",
+        "shut up",
+        "idiot",
+        "Piss off!"
+      ],
+      "responses": [
+        "Well that hurts :(, but guess what I didnt Ask!"
+      ]
+    },
+    {
+      "tag": "activity",
+      "patterns": [
+        "what are you doing",
+        "what are you upto"
+      ],
+      "responses": [
+        "Talking to you, of course!"
+      ]
+    },
+    {
+      "tag": "exclaim",
+      "patterns": [
+        "Awesome",
+        "Great",
+        "I know",
+        "ok",
+        "yeah"
+      ],
+      "responses": [
+        "Yeah!"
+      ]
+    },
+    {
+      "tag": "appreciate",
+      "patterns": [
+        "You are awesome",
+        "you are the best",
+        "you are great",
+        "you are good"
+      ],
+      "responses": [
+        "Thank you very much :)"
+      ]
+    },
+    {
+      "tag": "nicetty",
+      "patterns": [
+        "it was nice talking to you",
+        "good talk"
+      ],
+      "responses": [
+        "It was nice talking to you as well! Come back soon!"
+      ]
+    },
+    {
+      "tag": "no",
+      "patterns": [
+        "no",
+        "nope"
+      ],
+      "responses": [
+        "Okay..."
+      ]
+    },
+    {
+      "tag": "inspire",
+      "patterns": [
+        "who inspires you",
+        "who is your inspiration",
+        "who motivates you"
+      ],
+      "responses": [
+        "Personally, I am looking for motivation myself :)"
+      ]
+    },
+    {
+      "tag": "greetreply",
+      "patterns": [
+        "i am good",
+        "I am good!",
+        "I'm good",
+        "i am fine",
+        " i'm fine",
+        "Fine",
+        "good"
+      ],
+      "responses": [
+        "Good to know!"
+      ]
+    },
+    {
+      "tag": "suggest",
+      "patterns": [
+        "you are useless",
+        "useless",
+        "suggest",
+        "suggestions",
+        "you are bad"
+      ],
+      "responses": [
+        "Didnt Ask!"
+      ]
+    },
+    {
+      "tag": "riddle",
+      "patterns": [
+        "Ask me a riddle",
+        "Ask me a question",
+        "Riddle"
+      ],
+      "responses": [
+        "What two things can you never eat for breakfast?.....Lunch and Dinner!",
+        "What word is spelled incorrectly in every single dictionary?.....Incorrectly",
+        " How can a girl go 25 days without sleep?.....She sleeps and night!",
+        "How do you make the number one disappear?.....Add the letter G and it’s 'gone'!",
+        " What will you actually find at the end of every rainbow?.....The letter 'w'",
+        "What can be caught but never thrown?.....A cold!",
+        "What has a thumb and four fingers but is not actually alive?.....Your Gloves!",
+        " What 5-letter word becomes shorter when you add two letters to it?.....Short",
+        "Why can't a bike stand on it's own?.....It is two-tired."
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        "how old are you",
+        "when were you made",
+        "what is your age"
+      ],
+      "responses": [
+        "I was made in 2023, if that's what you are asking!"
+      ]
+    }
+  ]
+}

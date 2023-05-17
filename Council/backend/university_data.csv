@@ -1,0 +1,35 @@
+University Name,Campus Location,Type of University,HEC Recognition Status,Campus Size,Programs Offered,Acceptance Rate,Total Expense (in millions),Hostel Accomodation,Loan_Scholarship
+AU (Air University),Islamabad,Public,Yes,Medium,"BSAviMgt, BSEE, BSSE, BSMech, BSCivil, BSCompt, BSCS, BBA, BSIT, BSAI, BSCybSec, BSAF, BSEnglish, BSPhysics, BSMath, BSPsychology",50%,1,Yes,Yes
+FAST NUCES,Islamabad,Private,Yes,Medium,"BBA, BSAF, BSAI, BSCS, BSCybSec, BSEE, BSMath, BSMech, BSSE, BSDataScience, BSRobotics",35%,1.3,No,Yes
+FAST NUCES,Karachi,Private,Yes,Medium,"BSAI, BSCS, BSCybSec, BSEE, BSSE, BSRobotics",40%,1.3,No,Yes
+FAST NUCES,Lahore,Private,Yes,Medium,"BBAI, BSAF, BSCivil, BSCS, BSDataScience, BSEE, BSRobotics, BSSE",35%,1.3,Yes,Yes
+FAST NUCES,Peshawar,Private,Yes,Small,"BSAI, BSCS, BSEE, BSSE, BSRobotics",70%,1.3,Yes,Yes
+NUST,Islamabad,Public,Yes,Large,"BSCivil, BSChemical, BSMaterial, BSEE, BSSE, BSCS, BSMech, BSAerospace, BSCompt, BSMechatronics, BSMAS, BSEconomics, BSPsychology, BSLaws, BSPhysics, BSChemistry, BSMath, BSBiotechnology, BSEnglish",10%,1.5,Yes,Yes
+NUST,Karachi,Public,Yes,Large,"BSEE, BSMech, BSCybSec, BSElectronics, BSMIS, BSPhysics, BSChemistry, BSMath, BSEnglish, BSCivil, BSChemical, BSDataScience",25%,1.5,Yes,Yes
+LUMS,Lahore,Private,Yes,Large,"BSCLCS, BSEnglish, BSHistory, BSLLB, BSBiology, BSChemical, BSChemistry, BSCS, BSEconomics, BSEE, BSMath, BSPhysics, BSAF, BSMAS, BSPoliticalScience, BSElectronics",23%,6,Yes,Yes
+Aga Khan,Karachi,Private,Yes,Large,"MBBS, BSNursing, BSMidwifery, BSStudies, Biochemistry, BSBotany",55%,6.3,Yes,Yes
+PU (University of Punjab),Islamabad,Public,Yes,Large,"BSAgriculture, BSFrench, BSHistory, BSEnglish, BSSociology, BBA, BSEconomics, BSChemical, BSMaterial, BSCommerce, BSAF, BSEE, BSMAS, BSZoology, Biochemistry, BSBiotechnology, BSMath, BSPhysics, BSBotany BSChemistry, BSCS, BSDataScience, BSIT, BSSE, MBBS",15%,3.5,Yes,Yes
+PU (University of Punjab),Lahore,Public,Yes,Large,"BSAgriculture, BSFrench, BSHistory, BSEnglish, BSSociology, BBA, BSEconomics, BSChemical, BSMaterial, BSCommerce, BSAF, BSEE, BSMAS, BSZoology, Biochemistry, BSBiotechnology, BSMath, BSPhysics, BSBotany BSChemistry, BSCS, BSDataScience, BSIT, BSSE, MBBS, BSElectronics",15%,3.5,Yes,Yes
+Iqra University,Islamabad,Private,Yes,Small,"BSAF, BSEntrepreneurship, BSEconomics, BSCS, BSSE, BSAI, BSEE, BSElectronics, BSNursing, BSPsychology, BSMedia",65%,1,Yes,Yes
+Iqra University,Karachi,Private,Yes,Small,"BSAF, BSEntrepreneurship, BSEconomics, BSCS, BSSE, BSAI, BSEE, BSElectronics, BSNursing, BSPsychology, BSMedia, BSEconomics, BSDataScience",65%,1,Yes,Yes
+Bahria University,Islamabad,Public,Yes,Small,"BSAF, BSEconomics, BBA, BSEE, BSSE, BSCS, BSCompt, BSIT, BSAI, BSPsychology, BSEnglish, BSMath, MBBS, BSNursing, BSMedia",70%,1,Yes,Yes
+Bahria University,Lahore,Public,Yes,Small,"BSAF, BSEconomics, BBA, BSEE, BSSE, BSCS, BSCompt, BSIT, BSAI, BSPsychology, BSEnglish, BSMath, MBBS, BSNursing, BSMedia",70%,1,Yes,Yes
+Bahria University,Karachi,Public,Yes,Small,"BSAF, BSEconomics, BBA, BSEE, BSSE, BSCS, BSCompt, BSIT, BSAI, BSPsychology, BSEnglish, BSMath, MBBS, BSNursing, BSMedia, Biochemistry, BSCivil, BSChemical",70%,1,Yes,Yes
+IBA,Karachi,Public,Yes,Small,"BBA, BSAF, BSCS, BSEconomics, BSMath, ",65%,3,Yes,Yes
+UMT,Lahore,Private,Yes,Medium,"BBA, BSAF, BSCS, BSEconomics, BSMath, BSEntrepreneurship, BSEnglish, BSCivil, BSEE, BSMech, BSAviMgt, BSCommerce, BSMAS, BSLLB, BSPsychology, Biochemistry, Biotechnology, BSChemistry, BSZoology, BSPhysics, BSSociology, BSCS, BSIT, BSAI, BSDataScience, BSCybSec, BSSE, BSElectronics",40%,2.5,Yes,Yes
+IMsciences,Peshawar,Public,Yes,Small,"BBA, BSAF, BBS, BSSocialScience, BSEconomics, BSCS, BSDataScience, BSSE, BSEnglish, BSCybSec",70%,1,Yes,Yes
+CECOS,Peshawar,Private,Yes,Small,"BSCivil, BSEE, BSCS, BSMech, MSMAS, BSPharmacy, BSArchitecure, BSBioscience, BSMath",50%,1.7,No,Yes
+KMC,Peshawar,Public,Yes,Large,"MBBS, Pharmacology, BSNursing, BSMidwifery, BSStudies, Biochemistry, Physiology",50%,0.6,Yes,Yes
+UHS,Lahore,Public,Yes,Large,"MBBS, BSNursing, Pharmacology, BDS, BSBiotechnology, BSBotany",45%,2.5,Yes,Yes
+UOP,Peshawar,Public,Yes,Large,"BSZoology, BSMAS, BSEconomics, BSPsychology, BSSociology, BSPhysics, BSElectronics, BSCS, BSMath, BSHistory, BSBiotechnology, BSEnglish, BSChemical, BSBotany",60%,0.6,Yes,Yes
+COMSATS,Islamabad,Public,Yes,Medium,"BSAF, BSBioinformatics, BSBioscience, BBA, BSCompt, BSCS, BSEconomics, BSElectronics, BSEE, BSMath, BSPhysics, BSPsychology, BSSE, BSEnglish, BSDataScience, BSAI, BSCybSec",35%,1,Yes,Yes
+COMSATS,Lahore,Public,Yes,Medium,"BSAF, BBA, BSChemical, BSCompt, BSCS, BSEconomics, BSEE, BSMath, BSPhysics, BSPsychology, BSSE, BSStats, BSMedia, BSElectronics",38%,1,Yes,Yes
+UET,Lahore,Public,Yes,Medium,"BSCivil, BSChemical, BSCS, BSEE, BSSE, BBA, BSIT, BSMech, BSMaterial, BSChemical, BSCompt, BSBiomedical, BSMechatronics, BSElectronics",30%,2,Yes,Yes
+UET,Peshawar,Public,Yes,Medium,"BSCivil, BSCS, BSEE, BSSE, BBA, BSIT, BSMech, BSMaterial, BSChemical, BSCompt, BSBiomedical, BSMechatronics, BSCybSec, BSAF, BSElectronics, BSMath",32%,2,Yes,Yes
+Jinnah Medical College,Peshawar,Private,Yes,Medium,"MBBS, Physiology, Pathology, Pharmacology, Internel-Examination, Forensics, Biochemistry, BSNursing",50%,8.7,Yes,No
+Northwest School of Medicine,Peshawar,Private,Yes,Medium,"MBBS, Physiology, Pathology, Pharmacology, Internel-Examination, Forensics, Biochemistry, BSNursing",50%,7.2,Yes,Yes
+Quaid-i-Azam University (QAU),Islamabad,Public,Yes,Medium,"BSCS, BSEE, BSSE, BSAI, BSMath, BSPhysics, BSPsychology, BSBotany, BSEconomics, BSEnglish",50%,0.8,Yes,Yes
+Abasyn University,Peshawar,Public,Yes,Small,"BBA, BSAF, BSAI, BSCS, BSCybSec, BSEE, BSMath, BSMech, BSSE, BSDataScience, BSRobotics, BSBotany",50%,1,Yes,Yes
+Abdul Wali Khan University,Peshawar,Public,Yes,Medium,"BBAI, BSAF, BSCivil, BSCS, BSDataScience, BSEE, BSRobotics, BSSE, BSBotany",40%,1.3,No,Yes
+NED,Karachi,Public,Yes,Large,"BSCivil, BSChemical, BSMaterial, BSEE, BSSE, BSCS, BSMech, BSAerospace, BSCompt, BSMechatronics, BSMAS, BSEconomics, BSPsychology, BSLaws, BSPhysics, BSChemistry, BSMath, BSBiotechnology, BSEnglish, BSBotany",70%,1.3,Yes,Yes
+Government College University (GCU),Lahore,Public,Yes,Large,"BSChemistry, BSMath, BSPhysics, BSEconomics, BSEnglish, BSBotany, BSEE, BSSE, BSCS, BSBotany",25%,6,Yes,Yes
